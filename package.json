@@ -1,0 +1,32 @@
+{
+  "name": "@manfredhu/reading-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.10.0",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "type": "module",
+  "description": "A GitHub Pages-ready reading and film gallery with development-only data updates.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5178",
+    "build": "tsc --noEmit && vite build && node dev/check-production.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4178",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test src/data.test.ts dev/collection-api.test.ts dev/migrate-obsidian.test.mjs",
+    "migrate:obsidian": "node --experimental-strip-types dev/migrate-obsidian.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.1",
+    "@types/node": "^22.19.19",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.3"
+  }
+}

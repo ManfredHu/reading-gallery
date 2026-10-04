@@ -1,0 +1,3209 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "文峰",
+    "bio": "在别人的故事里，收集自己的生活。"
+  },
+  "items": [
+    {
+      "id": "movie:36185502",
+      "type": "movie",
+      "title": "长安的荔枝",
+      "subtitle": "长安的荔枝(电影版) / The Lychee Road",
+      "creator": "大鹏",
+      "year": "2025",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/36185502/",
+      "cover": "covers/hq-2ce5fe10f0d559dd.webp",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "古装"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:36850814",
+      "type": "movie",
+      "title": "年会不能停！2",
+      "subtitle": "年会不能停2 / 年会不能停2！",
+      "creator": "董润年",
+      "year": "2026",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "好看，但是感觉没第一部那么震撼好笑。而且演员有点扎堆，可能娱乐圈减本增笑不好混了吧",
+      "url": "https://movie.douban.com/subject/36850814/",
+      "cover": "covers/hq-6a8a1a2870396e97.webp",
+      "tags": [
+        "喜剧"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:37311135",
+      "type": "movie",
+      "title": "飞驰人生3",
+      "subtitle": "Pegasus 3",
+      "creator": "韩寒",
+      "year": "2026",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/37311135/",
+      "cover": "covers/hq-ecea15b780f2b998.webp",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "运动"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:37096523",
+      "type": "movie",
+      "title": "临时决斗",
+      "subtitle": "臨時決鬥 / Hit N Fun / 中女舍",
+      "creator": "麦启光",
+      "year": "2025",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "王丹妮好看，剧情挺蠢",
+      "url": "https://movie.douban.com/subject/37096523/",
+      "cover": "covers/hq-be75420f575eef7a.webp",
+      "tags": [
+        "喜剧",
+        "动作"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:36857924",
+      "type": "movie",
+      "title": "寒战1994",
+      "subtitle": "寒戰1994 / 寒战前传 / Cold War 1994",
+      "creator": "梁乐民",
+      "year": "2026",
+      "date": "2026-07-25",
+      "rating": 4,
+      "review": "后面有点看不懂了，是一部过渡片。交代历史背景，为后面 MB 黑化给铺垫，MB 很可能跟蔡是一队的",
+      "url": "https://movie.douban.com/subject/36857924/",
+      "cover": "covers/hq-b6ca1845ff3fbea7.webp",
+      "tags": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:36474027",
+      "type": "movie",
+      "title": "镖人：风起大漠",
+      "subtitle": "镖人(电影版) / 镖人",
+      "creator": "袁和平",
+      "year": "2026",
+      "date": "2026-06-22",
+      "rating": 3,
+      "review": "打戏可以毕竟打星很多，但是内容偏单薄",
+      "url": "https://movie.douban.com/subject/36474027/",
+      "cover": "covers/hq-5a3a7fb639486fee.webp",
+      "tags": [
+        "动作",
+        "武侠",
+        "古装"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:37116446",
+      "type": "movie",
+      "title": "给阿嬷的情书",
+      "subtitle": "Dear You",
+      "creator": "蓝鸿春",
+      "year": "2026",
+      "date": "2026-06-07",
+      "rating": 5,
+      "review": "难得的好电影，把老一辈内敛却又对生活又充满希望的感觉演绎的很好。\n他们不是不苦，只是苦难的生活却要微笑着面对，那份从容和微笑才是最美的",
+      "url": "https://movie.douban.com/subject/37116446/",
+      "cover": "covers/hq-7a36a895e177b7ac.webp",
+      "tags": [
+        "剧情",
+        "家庭"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:35159709",
+      "type": "movie",
+      "title": "天才游戏",
+      "subtitle": "Game of Identity",
+      "creator": "程亮",
+      "year": "2026",
+      "date": "2026-06-07",
+      "rating": 4,
+      "review": "能想到男的不是陈伦，是凶手。但是没想过女的是凶手",
+      "url": "https://movie.douban.com/subject/35159709/",
+      "cover": "covers/hq-3c073987be9d8672.webp",
+      "tags": [
+        "悬疑",
+        "犯罪"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:26683290",
+      "type": "movie",
+      "title": "你的名字。",
+      "subtitle": "君の名は。 / 你的名字 / 君之名",
+      "creator": "新海诚",
+      "year": "2016",
+      "date": "2019-01-13",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26683290/",
+      "cover": "covers/hq-9831f2054093f2c8.webp",
+      "tags": [
+        "剧情",
+        "爱情",
+        "动画"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:20276229",
+      "type": "movie",
+      "title": "007：无暇赴死",
+      "subtitle": "007：无暇赴死 No Time to Die‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "",
+      "url": "https://movie.douban.com/subject/20276229/",
+      "cover": "covers/hq-c1654777fb2d681d.webp",
+      "tags": [
+        "电影",
+        "英国",
+        "动作",
+        "惊悚",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-07",
+      "notes": "",
+      "archiveId": "archive:2a0a216d9de61432",
+      "actors": [
+        "Daniel Craig",
+        "Lea Seydoux",
+        "Rami Malek"
+      ]
+    },
+    {
+      "id": "movie:3001114",
+      "type": "movie",
+      "title": "Dune沙丘1",
+      "subtitle": "沙丘 Dune‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "平行宇宙，主角为家族继承人，但是父亲被杀了跟母亲逃到异星球开始复仇。",
+      "url": "https://movie.douban.com/subject/3001114/",
+      "cover": "covers/hq-1efc2e29123c5338.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "冒险",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-09",
+      "notes": "平行宇宙，主角为家族继承人，但是父亲被杀了跟母亲逃到异星球开始复仇。",
+      "archiveId": "archive:ca9115933c6f3396",
+      "actors": [
+        "Timothee Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac"
+      ]
+    },
+    {
+      "id": "movie:26654184",
+      "type": "movie",
+      "title": "万里归途",
+      "subtitle": "万里归途‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26654184/",
+      "cover": "covers/hq-c7cf2eee450c44dc.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "战争"
+      ],
+      "status": "done",
+      "recordedAt": "2022-12-25",
+      "notes": "",
+      "archiveId": "archive:1500be3fd6dd6aab",
+      "actors": [
+        "张译",
+        "王俊凯",
+        "殷桃"
+      ]
+    },
+    {
+      "id": "movie:26608230",
+      "type": "movie",
+      "title": "三十而已",
+      "subtitle": "三十而已‎ (2020)",
+      "creator": "",
+      "year": "2020",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "三个姐妹花迎接三十岁的挑战，创业+职场+婚姻",
+      "url": "https://movie.douban.com/subject/26608230/",
+      "cover": "covers/hq-8adafb484f807b0f.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情",
+        "都市"
+      ],
+      "status": "done",
+      "recordedAt": "2022-04-02",
+      "notes": "三个姐妹花迎接三十岁的挑战，创业+职场+婚姻",
+      "archiveId": "archive:6b25f7787135fc59",
+      "actors": [
+        "江疏影",
+        "童瑶",
+        "毛晓彤"
+      ]
+    },
+    {
+      "id": "movie:35905017",
+      "type": "movie",
+      "title": "乔峰传",
+      "subtitle": "天龙八部之乔峰传‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 1,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35905017/",
+      "cover": "covers/hq-0f09d3e10a48c8a4.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "武侠"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-05",
+      "notes": "",
+      "archiveId": "archive:a6b0dafdc9d7d61a",
+      "actors": [
+        "甄子丹",
+        "陈钰琪",
+        "刘雅瑟"
+      ]
+    },
+    {
+      "id": "movie:26727273",
+      "type": "movie",
+      "title": "人民的名义",
+      "subtitle": "人民的名义‎ (2017)",
+      "creator": "",
+      "year": "2017",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26727273/",
+      "cover": "covers/hq-fac08b4ba51f0267.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "1. 人不为己，天诛地灭。求权，求名，求财\n2. 人非圣贤孰能无过\n3. 法无禁止即可为\n4.",
+      "archiveId": "archive:29bf2374205fc43f",
+      "actors": [
+        "陆毅",
+        "张丰毅",
+        "吴刚"
+      ]
+    },
+    {
+      "id": "movie:33457603",
+      "type": "movie",
+      "title": "优雅的朋友们",
+      "subtitle": "优雅的朋友们 우아한 친구들‎ (2020)",
+      "creator": "",
+      "year": "2020",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "各种CP婚内各种出轨怀疑，反转，杀人",
+      "url": "https://movie.douban.com/subject/33457603/",
+      "cover": "covers/hq-8f98b0c3ab697c82.webp",
+      "tags": [
+        "电视剧",
+        "韩国",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-07",
+      "notes": "各种CP婚内各种出轨怀疑，反转，杀人",
+      "archiveId": "archive:3c9af589af2f8425",
+      "actors": [
+        "Yoo Jun-sang",
+        "Song Yoon-ah",
+        "Bae Soo-bin"
+      ]
+    },
+    {
+      "id": "movie:30371543",
+      "type": "movie",
+      "title": "伪钞者",
+      "subtitle": "伪钞者之末路‎ (2019)",
+      "creator": "",
+      "year": "2019",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "跟绝命毒师同个套路，但是毒品转为伪钞，没大牌明星反而韵味十足",
+      "url": "https://movie.douban.com/subject/30371543/",
+      "cover": "covers/hq-3cff9cf0abd1ae47.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "犯罪",
+        "悬疑"
+      ],
+      "status": "done",
+      "recordedAt": "2022-10-17",
+      "notes": "跟绝命毒师同个套路，但是毒品转为伪钞，没大牌明星反而韵味十足",
+      "archiveId": "archive:b513fa64158e98fa",
+      "actors": [
+        "吴优",
+        "李卓阳",
+        "郝平"
+      ]
+    },
+    {
+      "id": "movie:6875647",
+      "type": "movie",
+      "title": "偷天派克",
+      "subtitle": "帕克 Parker‎ (2013)",
+      "creator": "",
+      "year": "2013",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "光头太猛",
+      "url": "https://movie.douban.com/subject/6875647/",
+      "cover": "covers/hq-701488e54bcd70de.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-15",
+      "notes": "光头太猛",
+      "archiveId": "archive:d96af1d7626cbaad",
+      "actors": [
+        "Jason Statham",
+        "Jennifer Lopez",
+        "Michael Chiklis"
+      ]
+    },
+    {
+      "id": "movie:10508907",
+      "type": "movie",
+      "title": "切尔诺贝利日记",
+      "subtitle": "切尔诺贝利日记 Chernobyl Diaries‎ (2012)",
+      "creator": "",
+      "year": "2012",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/10508907/",
+      "cover": "covers/hq-f26dccba250bb089.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "恐怖",
+        "惊悚"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-26",
+      "notes": "",
+      "archiveId": "archive:1497b9e89d49cf3e",
+      "actors": [
+        "Jesse McCartney",
+        "Jonathan Sadowski",
+        "Olivia Taylor Dudley"
+      ]
+    },
+    {
+      "id": "archive:5d6dad26b0437231",
+      "type": "movie",
+      "title": "创世纪",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-3b540f3ae67f4e6f.jpg",
+      "tags": [
+        "电视剧",
+        "香港",
+        "剧情",
+        "商战"
+      ],
+      "status": "done",
+      "recordedAt": "2023-01-21",
+      "notes": "",
+      "archiveId": "archive:5d6dad26b0437231",
+      "actors": [
+        "罗嘉良",
+        "陈锦鸿",
+        "郭晋安"
+      ]
+    },
+    {
+      "id": "movie:35358443",
+      "type": "movie",
+      "title": "前任4",
+      "subtitle": "前任4：英年早婚‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35358443/",
+      "cover": "covers/hq-eea02605ac4cbf07.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "喜剧",
+        "爱情"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:f6d649a8245fcf8b",
+      "actors": [
+        "韩庚",
+        "郑恺",
+        "于文文"
+      ]
+    },
+    {
+      "id": "movie:30212622",
+      "type": "movie",
+      "title": "前哨",
+      "subtitle": "前哨 The Outpost‎ (2019)",
+      "creator": "",
+      "year": "2019",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "美国大兵被塔利班地方武装反攻",
+      "url": "https://movie.douban.com/subject/30212622/",
+      "cover": "covers/hq-0dca581f51625c8e.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "战争",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-03-04",
+      "notes": "美国大兵被塔利班地方武装反攻",
+      "archiveId": "archive:7e7a5d1519289655",
+      "actors": [
+        "Scott Eastwood",
+        "Caleb Landry Jones",
+        "Orlando Bloom"
+      ]
+    },
+    {
+      "id": "movie:36093921",
+      "type": "movie",
+      "title": "劫数难逃",
+      "subtitle": "劫数难逃‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/36093921/",
+      "cover": "covers/archive-314b07b1ecc6c6e9.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "犯罪",
+        "悬疑"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:a2665fb1e66a2de3",
+      "actors": [
+        "张继聪",
+        "郑浩南",
+        "张建声"
+      ]
+    },
+    {
+      "id": "movie:1303913",
+      "type": "movie",
+      "title": "南海十三郎",
+      "subtitle": "南海十三郎‎ (1997)",
+      "creator": "",
+      "year": "1997",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/1303913/",
+      "cover": "covers/hq-5947468216bda0fc.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情",
+        "传记"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-18",
+      "notes": "世事浮沉，讲述了粤剧南海十三郎才华横溢，装傻混世的一生\n\n[南海十三郎 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E5%8D%81%E4%B8%89%E9%83%8E)",
+      "archiveId": "archive:99031bf782b102c3",
+      "actors": [
+        "谢君豪",
+        "潘灿良",
+        "苏玉华"
+      ]
+    },
+    {
+      "id": "movie:35613241",
+      "type": "movie",
+      "title": "县委大院",
+      "subtitle": "县委大院‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 2,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35613241/",
+      "cover": "covers/hq-b9d79cc6e63e2fd2.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情",
+        "现实"
+      ],
+      "status": "done",
+      "recordedAt": "2022-12-26",
+      "notes": "",
+      "archiveId": "archive:0f55cc0dd9350f32",
+      "actors": [
+        "胡歌",
+        "吴越",
+        "张新成"
+      ]
+    },
+    {
+      "id": "movie:32579501",
+      "type": "movie",
+      "title": "反贪风暴5:最终章",
+      "subtitle": "反贪风暴5：最终章 G風暴‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "老掉牙剧情，反贪最后一集",
+      "url": "https://movie.douban.com/subject/32579501/",
+      "cover": "covers/hq-72db6264916f4fb8.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-26",
+      "notes": "老掉牙剧情，反贪最后一集",
+      "archiveId": "archive:d3aafa3fe26ef9b8",
+      "actors": [
+        "古天乐",
+        "张智霖",
+        "郑嘉颖"
+      ]
+    },
+    {
+      "id": "movie:35499051",
+      "type": "movie",
+      "title": "反飙车行动",
+      "subtitle": "反飙车行动‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 1,
+      "review": "路障打晕，傻逼电影",
+      "url": "https://movie.douban.com/subject/35499051/",
+      "cover": "covers/hq-a913907f8e0a6f40.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "路障打晕，傻逼电影",
+      "archiveId": "archive:434fb9286cf087e4",
+      "actors": [
+        "谢天华",
+        "李修贤",
+        "吴岱融"
+      ]
+    },
+    {
+      "id": "movie:35401290",
+      "type": "movie",
+      "title": "回廊庭",
+      "subtitle": "回廊亭‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35401290/",
+      "cover": "covers/hq-a2defe2044d0f908.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "悬疑",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-04-29",
+      "notes": "",
+      "archiveId": "archive:896adb29779ced89",
+      "actors": [
+        "任素汐",
+        "刘敏涛",
+        "胡可"
+      ]
+    },
+    {
+      "id": "movie:35700395",
+      "type": "movie",
+      "title": "坠落",
+      "subtitle": "坠落 Fall‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35700395/",
+      "cover": "covers/hq-bd7cd1e9f049ec9f.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "惊悚",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:a47185c9990d3e00",
+      "actors": [
+        "Grace Caroline Currey",
+        "Virginia Gardner",
+        "Mason Gooding"
+      ]
+    },
+    {
+      "id": "movie:30337388",
+      "type": "movie",
+      "title": "失控玩家",
+      "subtitle": "失控玩家 Free Guy‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30337388/",
+      "cover": "covers/hq-2bd8cdf59fd82c71.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "喜剧"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-12",
+      "notes": "",
+      "archiveId": "archive:851aa2b7ba02e8a7",
+      "actors": [
+        "Ryan Reynolds",
+        "Jodie Comer",
+        "Taika Waititi"
+      ]
+    },
+    {
+      "id": "movie:30304994",
+      "type": "movie",
+      "title": "奇异博士2",
+      "subtitle": "奇异博士2：疯狂多元宇宙 Doctor Strange in the Multiverse of Madness‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30304994/",
+      "cover": "covers/hq-2f37696130481786.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "奇幻",
+        "动作"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-24",
+      "notes": "",
+      "archiveId": "archive:a2112459f115bdc0",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Elizabeth Olsen",
+        "Chiwetel Ejiofor"
+      ]
+    },
+    {
+      "id": "movie:10577975",
+      "type": "movie",
+      "title": "孤胆保镖(德语/原版/2014)电影",
+      "subtitle": "孤胆保镖 Schutzengel‎ (2012)",
+      "creator": "",
+      "year": "2012",
+      "date": "2026-10-03",
+      "rating": 1,
+      "review": "",
+      "url": "https://movie.douban.com/subject/10577975/",
+      "cover": "covers/hq-2c98d69973ea3140.webp",
+      "tags": [
+        "电影",
+        "德国",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-16",
+      "notes": "",
+      "archiveId": "archive:82c4d9ad17b2dd4a",
+      "actors": [
+        "Til Schweiger",
+        "Luna Schweiger",
+        "Moritz Bleibtreu"
+      ]
+    },
+    {
+      "id": "movie:30394797",
+      "type": "movie",
+      "title": "尚气与十环",
+      "subtitle": "尚气与十环传奇 Shang-Chi and the Legend of the Ten Rings‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30394797/",
+      "cover": "covers/hq-a6e1a2ffd2342c7e.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "动作",
+        "奇幻"
+      ],
+      "status": "done",
+      "recordedAt": "2022-11-27",
+      "notes": "",
+      "archiveId": "archive:6408a6fa96786ab0",
+      "actors": [
+        "Simu Liu",
+        "Awkwafina",
+        "Tony Leung"
+      ]
+    },
+    {
+      "id": "movie:27203644",
+      "type": "movie",
+      "title": "尼罗河的惨案",
+      "subtitle": "尼罗河上的惨案 Death on the Nile‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "- 重伤士兵变为侦探，被朵姐委托参与调查。朵姐把自己好朋友的男友撬了，好朋友转而跟随两人来到尼罗河参加结婚party 。最后朵姐死了，谁会是真凶呢？侦探一个个人排查\n- 凶手就是奸夫和好朋友，女为男，男为财。",
+      "url": "https://movie.douban.com/subject/27203644/",
+      "cover": "covers/hq-0a5f1337843eb25c.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "悬疑",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "- 重伤士兵变为侦探，被朵姐委托参与调查。朵姐把自己好朋友的男友撬了，好朋友转而跟随两人来到尼罗河参加结婚party 。最后朵姐死了，谁会是真凶呢？侦探一个个人排查\n- 凶手就是奸夫和好朋友，女为男，男为财。",
+      "archiveId": "archive:b14761030bfbf9c5",
+      "actors": [
+        "Kenneth Branagh",
+        "Gal Gadot",
+        "Armie Hammer"
+      ]
+    },
+    {
+      "id": "movie:26774033",
+      "type": "movie",
+      "title": "幕后玩家",
+      "subtitle": "幕后玩家‎ (2018)",
+      "creator": "",
+      "year": "2018",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "一个金融才俊因为被复仇，最后连锁事件发生，密码被盗财产全丢\n\n人不能只为钱活着，还要多考虑爱你的人",
+      "url": "https://movie.douban.com/subject/26774033/",
+      "cover": "covers/hq-4928922ea36b238a.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-05-29",
+      "notes": "一个金融才俊因为被复仇，最后连锁事件发生，密码被盗财产全丢\n\n人不能只为钱活着，还要多考虑爱你的人",
+      "archiveId": "archive:cbec0c4b29c50162",
+      "actors": [
+        "徐峥",
+        "王丽坤",
+        "王砚辉"
+      ]
+    },
+    {
+      "id": "movie:35332289",
+      "type": "movie",
+      "title": "开端",
+      "subtitle": "开端‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "- 无限reset\n- 公车无限轮回最后找出真相的故事，本质还是反思网络暴力和一对父母孜孜不倦的坚持最后找到真凶的事例。侧面反映社会问题，大家都以己为心，符合厚黑学的观点。 也说明现代社会个人觉悟，网络喷子多，社会有不和谐因素，会哭的孩子有奶喝\n- 还是锅姨牛逼，看完觉得演技炸裂，撕心裂肺的哭和极度狰狞的笑",
+      "url": "https://movie.douban.com/subject/35332289/",
+      "cover": "covers/hq-656ef30ef5468503.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "悬疑",
+        "科幻"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-28",
+      "notes": "- 无限reset\n- 公车无限轮回最后找出真相的故事，本质还是反思网络暴力和一对父母孜孜不倦的坚持最后找到真凶的事例。侧面反映社会问题，大家都以己为心，符合厚黑学的观点。 也说明现代社会个人觉悟，网络喷子多，社会有不和谐因素，会哭的孩子有奶喝\n- 还是锅姨牛逼，看完觉得演技炸裂，撕心裂肺的哭和极度狰狞的笑",
+      "archiveId": "archive:3defe88434601194",
+      "actors": [
+        "白敬亭",
+        "赵今麦",
+        "刘奕君"
+      ]
+    },
+    {
+      "id": "movie:21352814",
+      "type": "movie",
+      "title": "归来",
+      "subtitle": "归来‎ (2014)",
+      "creator": "",
+      "year": "2014",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "文革一对夫妻和孩子的故事，妻子部分失忆",
+      "url": "https://movie.douban.com/subject/21352814/",
+      "cover": "covers/hq-832683a486e0dfcd.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "爱情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-11",
+      "notes": "文革一对夫妻和孩子的故事，妻子部分失忆",
+      "archiveId": "archive:6ac3234d6a43bf1b",
+      "actors": [
+        "陈道明",
+        "巩俐",
+        "张慧雯"
+      ]
+    },
+    {
+      "id": "movie:26970964",
+      "type": "movie",
+      "title": "惊涛迷局",
+      "subtitle": "惊涛迷局 Serenity‎ (2019)",
+      "creator": "",
+      "year": "2019",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "人生是一个无限循环的游戏吗？\n\n日复一日年复一年无限循环，这个游戏到底谁是创造者，谁又是里面的小人物？\n\n最后反转，全程都是游戏，真实世界是打仗他爹死了，他妈带他改嫁，继父打骂专心写游戏去。",
+      "url": "https://movie.douban.com/subject/26970964/",
+      "cover": "covers/hq-9b515b1afc7d1ef9.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "悬疑",
+        "惊悚"
+      ],
+      "status": "done",
+      "recordedAt": "2022-05-29",
+      "notes": "人生是一个无限循环的游戏吗？\n\n日复一日年复一年无限循环，这个游戏到底谁是创造者，谁又是里面的小人物？\n\n最后反转，全程都是游戏，真实世界是打仗他爹死了，他妈带他改嫁，继父打骂专心写游戏去。",
+      "archiveId": "archive:fcb4ebff003515ba",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Diane Lane"
+      ]
+    },
+    {
+      "id": "archive:777ed84c03d5d139",
+      "type": "movie",
+      "title": "扎职1/2",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-82784515ed7c15b1.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-10-25",
+      "notes": "",
+      "archiveId": "archive:777ed84c03d5d139",
+      "actors": [
+        "陈伟霆",
+        "黄宗泽",
+        "陈家乐"
+      ]
+    },
+    {
+      "id": "movie:35013359",
+      "type": "movie",
+      "title": "扫毒3",
+      "subtitle": "扫毒3：人在天涯 掃毒3：人在天涯‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 2,
+      "review": "剧情老套, 无聊",
+      "url": "https://movie.douban.com/subject/35013359/",
+      "cover": "covers/hq-949bb8ac2c47f8dd.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-08-10",
+      "notes": "剧情老套, 无聊",
+      "archiveId": "archive:6e2506d3060b02f9",
+      "actors": [
+        "刘青云",
+        "古天乐",
+        "郭富城"
+      ]
+    },
+    {
+      "id": "movie:36721436",
+      "type": "movie",
+      "title": "扫毒风暴",
+      "subtitle": "扫毒风暴‎ (2025)",
+      "creator": "",
+      "year": "2025",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/36721436/",
+      "cover": "covers/hq-d4d35a0fe977e45c.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "doing",
+      "recordedAt": "2025-07-26",
+      "notes": "",
+      "archiveId": "archive:8f74d609c17f7712",
+      "actors": [
+        "秦昊",
+        "段奕宏",
+        "于文文"
+      ]
+    },
+    {
+      "id": "movie:35164328",
+      "type": "movie",
+      "title": "扫黑决战",
+      "subtitle": "扫黑·决战‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 2,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35164328/",
+      "cover": "covers/hq-ac46ba9810ed4109.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-02-18",
+      "notes": "",
+      "archiveId": "archive:abdc7e5695744908",
+      "actors": [
+        "姜武",
+        "张颂文",
+        "金世佳"
+      ]
+    },
+    {
+      "id": "archive:ed9e1eb9b3b2cc99",
+      "type": "movie",
+      "title": "指环王",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-1aa7b3fe2a944b39.jpg",
+      "tags": [
+        "电影",
+        "美国",
+        "奇幻",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:ed9e1eb9b3b2cc99",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ]
+    },
+    {
+      "id": "movie:26848640",
+      "type": "movie",
+      "title": "教授与疯子 The Professor and the Madman",
+      "subtitle": "教授与疯子 The Professor and the Madman‎ (2019)",
+      "creator": "",
+      "year": "2019",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "教授和疯子便携牛津词典",
+      "url": "https://movie.douban.com/subject/26848640/",
+      "cover": "covers/hq-e03864e8d830cb6b.webp",
+      "tags": [
+        "电影",
+        "英国",
+        "剧情",
+        "传记"
+      ],
+      "status": "done",
+      "recordedAt": "2022-03-26",
+      "notes": "教授和疯子便携牛津词典",
+      "archiveId": "archive:bf62570858b3ce8f",
+      "actors": [
+        "Mel Gibson",
+        "Sean Penn",
+        "Natalie Dormer"
+      ]
+    },
+    {
+      "id": "movie:35235365",
+      "type": "movie",
+      "title": "断桥",
+      "subtitle": "断·桥‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35235365/",
+      "cover": "covers/hq-97e53e93415e9ccc.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-09-17",
+      "notes": "",
+      "archiveId": "archive:69d4540fcc681fa8",
+      "actors": [
+        "马思纯",
+        "王俊凯",
+        "范伟"
+      ]
+    },
+    {
+      "id": "movie:35043401",
+      "type": "movie",
+      "title": "断网",
+      "subtitle": "断网 斷網‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35043401/",
+      "cover": "covers/hq-6562fe392b11aae4.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:aa2f7ab2c3c23da5",
+      "actors": [
+        "郭富城",
+        "任达华",
+        "林家栋"
+      ]
+    },
+    {
+      "id": "movie:35372742",
+      "type": "movie",
+      "title": "无名",
+      "subtitle": "无名‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35372742/",
+      "cover": "covers/hq-411d9999fd3f60a5.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "悬疑"
+      ],
+      "status": "done",
+      "recordedAt": "2023-04-09",
+      "notes": "",
+      "archiveId": "archive:c9dacc4993652b70",
+      "actors": [
+        "梁朝伟",
+        "王一博",
+        "周迅"
+      ]
+    },
+    {
+      "id": "movie:26353671",
+      "type": "movie",
+      "title": "明日战记",
+      "subtitle": "明日战记 明日戰記‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 1,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26353671/",
+      "cover": "covers/hq-b8a6b3ba106dc3b2.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "科幻",
+        "动作"
+      ],
+      "status": "done",
+      "recordedAt": "2022-12-11",
+      "notes": "",
+      "archiveId": "archive:f4d9744522387629",
+      "actors": [
+        "古天乐",
+        "刘青云",
+        "刘嘉玲"
+      ]
+    },
+    {
+      "id": "movie:3771562",
+      "type": "movie",
+      "title": "普罗米修斯",
+      "subtitle": "普罗米修斯 Prometheus‎ (2012)",
+      "creator": "",
+      "year": "2012",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "实际是一个飞船叫prometheus，类似造物神。结果黑暗森林法则告诉我们，接近外星人=寻找死亡，非我族必异类",
+      "url": "https://movie.douban.com/subject/3771562/",
+      "cover": "covers/hq-5f498b1ae6e1976a.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "恐怖"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-10",
+      "notes": "实际是一个飞船叫prometheus，类似造物神。结果黑暗森林法则告诉我们，接近外星人=寻找死亡，非我族必异类",
+      "archiveId": "archive:3aefe8952e61bf3a",
+      "actors": [
+        "Noomi Rapace",
+        "Michael Fassbender",
+        "Charlize Theron"
+      ]
+    },
+    {
+      "id": "movie:25823132",
+      "type": "movie",
+      "title": "暗杀",
+      "subtitle": "暗杀 암살‎ (2015)",
+      "creator": "",
+      "year": "2015",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/25823132/",
+      "cover": "covers/hq-73c8e76eecb02aab.webp",
+      "tags": [
+        "电影",
+        "韩国",
+        "动作",
+        "历史"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:d48bf4e0292f4748",
+      "actors": [
+        "Jun Ji-hyun",
+        "Lee Jung-jae",
+        "Ha Jung-woo"
+      ]
+    },
+    {
+      "id": "movie:37235890",
+      "type": "movie",
+      "title": "朱雀堂",
+      "subtitle": "朱雀堂‎ (2025)",
+      "creator": "",
+      "year": "2025",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "朱雀堂这部电视非比较惊悚中有一种惊悚的感觉，所以我觉得这部电影可以值4分\n\n里面的万茜非常的飒，然后破案也比较烧脑",
+      "url": "https://movie.douban.com/subject/37235890/",
+      "cover": "covers/hq-eed08defde926033.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情"
+      ],
+      "status": "doing",
+      "recordedAt": "2025-09-14",
+      "notes": "朱雀堂这部电视非比较惊悚中有一种惊悚的感觉，所以我觉得这部电影可以值4分\n\n里面的万茜非常的飒，然后破案也比较烧脑",
+      "archiveId": "archive:1b7dde9acd08d9ef",
+      "actors": [
+        "万茜"
+      ]
+    },
+    {
+      "id": "movie:35231822",
+      "type": "movie",
+      "title": "梦华录",
+      "subtitle": "梦华录‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "神仙姐姐还是神仙姐姐，学其挣扎与志气，学其眼界与果决。\n\n非粉饰太平，而是有此人格的人终不会被世界抛弃\n\n一点点进步与思考，思考不能停",
+      "url": "https://movie.douban.com/subject/35231822/",
+      "cover": "covers/hq-930e58bace047a3a.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情",
+        "古装"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-03",
+      "notes": "神仙姐姐还是神仙姐姐，学其挣扎与志气，学其眼界与果决。\n\n非粉饰太平，而是有此人格的人终不会被世界抛弃\n\n一点点进步与思考，思考不能停",
+      "archiveId": "archive:5dc18c9e7f138857",
+      "actors": [
+        "刘亦菲",
+        "陈晓",
+        "柳岩"
+      ]
+    },
+    {
+      "id": "movie:10463953",
+      "type": "movie",
+      "title": "模仿游戏 The Imitation Game",
+      "subtitle": "模仿游戏 The Imitation Game‎ (2014)",
+      "creator": "",
+      "year": "2014",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "- 通过加速运算和减少运算级最终稳定破译德军情报\n- 图灵是同性恋，但是当时不被理解，最后被化学阉割",
+      "url": "https://movie.douban.com/subject/10463953/",
+      "cover": "covers/hq-713f568305e577f2.webp",
+      "tags": [
+        "电影",
+        "英国",
+        "剧情",
+        "传记"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-22",
+      "notes": "- 通过加速运算和减少运算级最终稳定破译德军情报\n- 图灵是同性恋，但是当时不被理解，最后被化学阉割",
+      "archiveId": "archive:77733487a2992f1e",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode"
+      ]
+    },
+    {
+      "id": "movie:35914259",
+      "type": "movie",
+      "title": "毒舌律师",
+      "subtitle": "毒舌律师 毒舌大狀‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35914259/",
+      "cover": "covers/hq-8f4a219d4880cf63.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-05",
+      "notes": "",
+      "archiveId": "archive:53ac0adf3dc8859d",
+      "actors": [
+        "黄子华",
+        "谢君豪",
+        "王丹妮"
+      ]
+    },
+    {
+      "id": "movie:30223888",
+      "type": "movie",
+      "title": "永恒族",
+      "subtitle": "永恒族 Eternals‎ (2021)",
+      "creator": "",
+      "year": "2021",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30223888/",
+      "cover": "covers/hq-7416478afec49e13.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "动作"
+      ],
+      "status": "done",
+      "recordedAt": "2022-11-29",
+      "notes": "",
+      "archiveId": "archive:d64457db06727657",
+      "actors": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Angelina Jolie"
+      ]
+    },
+    {
+      "id": "movie:35299823",
+      "type": "movie",
+      "title": "法医秦明之雨中的",
+      "subtitle": "法医秦明之雨中协奏曲‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35299823/",
+      "cover": "covers/hq-9d3205aca4854967.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "悬疑",
+        "犯罪"
+      ],
+      "status": "paused",
+      "recordedAt": "",
+      "notes": "有点烂尾了，看不下去",
+      "archiveId": "archive:0a9d9c11b26bf9b1",
+      "actors": [
+        "应昊茗",
+        "梁缘",
+        "唐振超"
+      ]
+    },
+    {
+      "id": "movie:35267208",
+      "type": "movie",
+      "title": "流浪地球2",
+      "subtitle": "流浪地球2‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35267208/",
+      "cover": "covers/hq-5759df5e54823e56.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "科幻",
+        "灾难"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-18",
+      "notes": "",
+      "archiveId": "archive:bbd1c306e6197dbf",
+      "actors": [
+        "吴京",
+        "刘德华",
+        "李雪健"
+      ]
+    },
+    {
+      "id": "movie:35660795",
+      "type": "movie",
+      "title": "消失的她",
+      "subtitle": "",
+      "creator": "崔睿 / 刘翔",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "反转可以的",
+      "url": "https://movie.douban.com/subject/35660795/",
+      "cover": "covers/hq-a6f716dde4e45339.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "悬疑",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-07-01",
+      "notes": "反转可以的",
+      "archiveId": "archive:4e077bd477b36c1c",
+      "actors": [
+        "朱一龙",
+        "倪妮",
+        "文咏珊"
+      ]
+    },
+    {
+      "id": "movie:35766491",
+      "type": "movie",
+      "title": "满江红",
+      "subtitle": "满江红‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "刺杀秦桧，给岳飞正反",
+      "url": "https://movie.douban.com/subject/35766491/",
+      "cover": "covers/hq-8d42f5b2a078fcb1.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "喜剧",
+        "悬疑"
+      ],
+      "status": "done",
+      "recordedAt": "2023-05-03",
+      "notes": "刺杀秦桧，给岳飞正反",
+      "archiveId": "archive:030c75c42bd920b9",
+      "actors": [
+        "沈腾",
+        "易烊千玺",
+        "张译"
+      ]
+    },
+    {
+      "id": "movie:35152536",
+      "type": "movie",
+      "title": "爱的二八定律",
+      "subtitle": "爱的二八定律‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/35152536/",
+      "cover": "covers/hq-b49a62df68967409.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "爱情",
+        "都市"
+      ],
+      "status": "done",
+      "recordedAt": "2022-12-14",
+      "notes": "",
+      "archiveId": "archive:57f76f399540b0f4",
+      "actors": [
+        "杨幂",
+        "许凯",
+        "李泽锋"
+      ]
+    },
+    {
+      "id": "movie:26747274",
+      "type": "movie",
+      "title": "狂兽",
+      "subtitle": "狂兽 狂獸‎ (2017)",
+      "creator": "",
+      "year": "2017",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26747274/",
+      "cover": "covers/hq-d48d1811fa557e3a.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-10-30",
+      "notes": "",
+      "archiveId": "archive:e3b03a300414f88b",
+      "actors": [
+        "张晋",
+        "余文乐",
+        "文咏珊"
+      ]
+    },
+    {
+      "id": "movie:35465232",
+      "type": "movie",
+      "title": "狂飙",
+      "subtitle": "",
+      "creator": "徐纪周",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "告诉老默我要吃鱼了",
+      "url": "https://movie.douban.com/subject/35465232/",
+      "cover": "covers/hq-ad61ad6f7566f069.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2023-01-21",
+      "notes": "告诉老默我要吃鱼了",
+      "archiveId": "archive:abf37f516c60b393",
+      "actors": [
+        "张译",
+        "张颂文",
+        "李一桐"
+      ]
+    },
+    {
+      "id": "movie:30160393",
+      "type": "movie",
+      "title": "猛禽小队与哈莉奎因",
+      "subtitle": "猛禽小队和哈莉·奎茵 Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn‎ (2020)",
+      "creator": "",
+      "year": "2020",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30160393/",
+      "cover": "covers/hq-9797044578b24ac0.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-23",
+      "notes": "",
+      "archiveId": "archive:5df0b404f82b09cc",
+      "actors": [
+        "Margot Robbie",
+        "Mary Elizabeth Winstead",
+        "Jurnee Smollett"
+      ]
+    },
+    {
+      "id": "movie:36353523",
+      "type": "movie",
+      "title": "生死交锋",
+      "subtitle": "生死交锋‎ (2023)",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 3,
+      "review": "",
+      "url": "https://movie.douban.com/subject/36353523/",
+      "cover": "covers/archive-960821cbcc2c7689.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-12-17",
+      "notes": "",
+      "archiveId": "archive:04242229db8c7eaf",
+      "actors": [
+        "何晟铭",
+        "喻恩泰",
+        "王奕权"
+      ]
+    },
+    {
+      "id": "movie:26743541",
+      "type": "movie",
+      "title": "画江湖之不良人",
+      "subtitle": "画江湖之不良人‎ (2016)",
+      "creator": "",
+      "year": "2016",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26743541/",
+      "cover": "covers/hq-075f57276f3379dd.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "武侠",
+        "古装"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:5088b4854fca4f9a",
+      "actors": [
+        "郑业成",
+        "李纯",
+        "范世錡"
+      ]
+    },
+    {
+      "id": "movie:26928226",
+      "type": "movie",
+      "title": "知否。知否。应是绿肥红瘦",
+      "subtitle": "知否知否应是绿肥红瘦‎ (2018)",
+      "creator": "",
+      "year": "2018",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26928226/",
+      "cover": "covers/hq-b7a89eb4d0de4687.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "剧情",
+        "古装"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:9f31f42bba4627a1",
+      "actors": [
+        "赵丽颖",
+        "冯绍峰",
+        "朱一龙"
+      ]
+    },
+    {
+      "id": "movie:33437307",
+      "type": "movie",
+      "title": "破战",
+      "subtitle": "破战‎ (2024)",
+      "creator": "",
+      "year": "2024",
+      "date": "2026-10-03",
+      "rating": 2,
+      "review": "",
+      "url": "https://movie.douban.com/subject/33437307/",
+      "cover": "covers/hq-5b4efd5e23ace8a7.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2024-06-11",
+      "notes": "",
+      "archiveId": "archive:6a379ac8193b319c",
+      "actors": [
+        "吴镇宇",
+        "任达华",
+        "程媛媛"
+      ]
+    },
+    {
+      "id": "movie:26995893",
+      "type": "movie",
+      "title": "神探大战",
+      "subtitle": "神探大战 神探大戰‎ (2022)",
+      "creator": "",
+      "year": "2022",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26995893/",
+      "cover": "covers/hq-c6ad8325796b7736.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-08-28",
+      "notes": "",
+      "archiveId": "archive:4065e7c6d3478aca",
+      "actors": [
+        "刘青云",
+        "蔡卓妍",
+        "林峯"
+      ]
+    },
+    {
+      "id": "movie:4133814",
+      "type": "movie",
+      "title": "线人",
+      "subtitle": "线人 綫人‎ (2010)",
+      "creator": "",
+      "year": "2010",
+      "date": "2026-10-03",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/4133814/",
+      "cover": "covers/hq-bab679feb881a5e0.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:558f3e99c515e6c8",
+      "actors": [
+        "谢霆锋",
+        "张家辉",
+        "桂纶镁"
+      ]
+    },
+    {
+      "id": "archive:0f761d28fc518148",
+      "type": "movie",
+      "title": "绝命毒师 1-6季",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-e509e816870a490c.webp",
+      "tags": [
+        "电视剧",
+        "美国",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-10-24",
+      "notes": "老白，真实笑料不断却发人深省",
+      "archiveId": "archive:0f761d28fc518148",
+      "actors": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn"
+      ]
+    },
+    {
+      "id": "movie:26385746",
+      "type": "movie",
+      "title": "荡寇风云",
+      "subtitle": "荡寇风云‎ (2017)",
+      "creator": "",
+      "year": "2017",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26385746/",
+      "cover": "covers/hq-b7d7b9b720f8e46d.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "动作",
+        "历史"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-25",
+      "notes": "",
+      "archiveId": "archive:be48a0bb1b6a6f87",
+      "actors": [
+        "赵文卓",
+        "洪金宝",
+        "万茜"
+      ]
+    },
+    {
+      "id": "movie:1292343",
+      "type": "movie",
+      "title": "蝴蝶效应 The Butterfly Effect",
+      "subtitle": "蝴蝶效应 The Butterfly Effect‎ (2004)",
+      "creator": "",
+      "year": "2004",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "修改历史就像就是蝴蝶效应般，牵一发而动全身\n\n\n每一处日记都忘记了过程，每一处都埋下了可以修改的hook，但是hook修改了又如何？蝴蝶效应的存在，修改总不会如你的意。\n\n抓住本质，放弃细枝末节",
+      "url": "https://movie.douban.com/subject/1292343/",
+      "cover": "covers/hq-8d846272a256648a.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "惊悚"
+      ],
+      "status": "done",
+      "recordedAt": "2022-03-19",
+      "notes": "修改历史就像就是蝴蝶效应般，牵一发而动全身\n\n\n每一处日记都忘记了过程，每一处都埋下了可以修改的hook，但是hook修改了又如何？蝴蝶效应的存在，修改总不会如你的意。\n\n抓住本质，放弃细枝末节",
+      "archiveId": "archive:5ffc43ffc99fc28d",
+      "actors": [
+        "Ashton Kutcher",
+        "Amy Smart",
+        "Melora Walters"
+      ]
+    },
+    {
+      "id": "movie:1578509",
+      "type": "movie",
+      "title": "蝴蝶效应2",
+      "subtitle": "蝴蝶效应2 The Butterfly Effect 2‎ (2006)",
+      "creator": "",
+      "year": "2006",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "跟第一部差不多，都是主角有了修改历史的能力，然后对过去的事情进行重置的情况",
+      "url": "https://movie.douban.com/subject/1578509/",
+      "cover": "covers/hq-58749f207b7126b7.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "科幻",
+        "惊悚"
+      ],
+      "status": "done",
+      "recordedAt": "2022-03-22",
+      "notes": "跟第一部差不多，都是主角有了修改历史的能力，然后对过去的事情进行重置的情况",
+      "archiveId": "archive:884cbb8a220ecc7f",
+      "actors": [
+        "Eric Lively",
+        "Erica Durance",
+        "Dustin Milligan"
+      ]
+    },
+    {
+      "id": "movie:1428175",
+      "type": "movie",
+      "title": "血钻",
+      "subtitle": "血钻 Blood Diamond‎ (2006)",
+      "creator": "",
+      "year": "2006",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "非洲内乱，原因是叛军有人力去挖钻走私到钻石公司里，钻石公司给钱，有了钱叛军就可以买军火存活继续强迫人口挖钻。小李子最后觉悟了",
+      "url": "https://movie.douban.com/subject/1428175/",
+      "cover": "covers/hq-e3ac48c7fe9c3ca8.webp",
+      "tags": [
+        "电影",
+        "美国",
+        "剧情",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-22",
+      "notes": "非洲内乱，原因是叛军有人力去挖钻走私到钻石公司里，钻石公司给钱，有了钱叛军就可以买军火存活继续强迫人口挖钻。小李子最后觉悟了",
+      "archiveId": "archive:f95719d22430986a",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Djimon Hounsou",
+        "Jennifer Connelly"
+      ]
+    },
+    {
+      "id": "movie:26022319",
+      "type": "movie",
+      "title": "西北风云",
+      "subtitle": "西北风云‎ (2018)",
+      "creator": "",
+      "year": "2018",
+      "date": "2026-10-03",
+      "rating": 2,
+      "review": "",
+      "url": "https://movie.douban.com/subject/26022319/",
+      "cover": "covers/hq-09724dfc2b10b5db.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-07",
+      "notes": "",
+      "archiveId": "archive:81474221eabe45f0",
+      "actors": [
+        "任达华",
+        "余男",
+        "彭敬慈"
+      ]
+    },
+    {
+      "id": "archive:b8439c5b4c000d64",
+      "type": "course",
+      "title": "诺贝尔经济奖得主保罗.克鲁格曼Paul Krugman大师课",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-74e0e0f639f6079c.webp",
+      "tags": [
+        "课程",
+        "美国",
+        "经济"
+      ],
+      "status": "wish",
+      "recordedAt": "",
+      "notes": "[https://www.bilibili.com/video/BV1oU4y177vk/?vd_source=fd95a19a0f69cd799708562d8f819c02](https://www.bilibili.com/video/BV1oU4y177vk/?vd_source=fd95a19a0f69cd799708562d8f819c02)",
+      "archiveId": "archive:b8439c5b4c000d64",
+      "actors": [
+        "Paul Krugman"
+      ]
+    },
+    {
+      "id": "movie:36401888",
+      "type": "movie",
+      "title": "谈判专家",
+      "subtitle": "谈判专家‎ (2024)",
+      "creator": "",
+      "year": "2024",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "",
+      "url": "https://movie.douban.com/subject/36401888/",
+      "cover": "covers/hq-0cf9fab364778e37.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2024-06-08",
+      "notes": "",
+      "archiveId": "archive:1f74121b3d667504",
+      "actors": [
+        "刘青云",
+        "吴镇宇",
+        "苗侨伟"
+      ]
+    },
+    {
+      "id": "movie:25966085",
+      "type": "movie",
+      "title": "踏雪寻梅",
+      "subtitle": "踏血寻梅 踏血尋梅‎ (2015)",
+      "creator": "",
+      "year": "2015",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "很深刻很任性很社会的刻画",
+      "url": "https://movie.douban.com/subject/25966085/",
+      "cover": "covers/hq-c6b27f3959428e48.webp",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-07-23",
+      "notes": "很深刻很任性很社会的刻画",
+      "archiveId": "archive:09bb49a970222dc4",
+      "actors": [
+        "郭富城",
+        "春夏",
+        "白只"
+      ]
+    },
+    {
+      "id": "archive:3a8260bb928bf1ad",
+      "type": "movie",
+      "title": "边缘行者",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-0a0f4c2bd59cefda.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2022-06-12",
+      "notes": "江湖帮会，被英国人在后面指挥\n\n新一代不知道中庸被英国人当枪使，最后死了",
+      "archiveId": "archive:3a8260bb928bf1ad",
+      "actors": [
+        "任贤齐",
+        "任达华",
+        "方中信"
+      ]
+    },
+    {
+      "id": "archive:069bf28195adf3f7",
+      "type": "movie",
+      "title": "追捕",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-23c5faccc42cf971.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-18",
+      "notes": "",
+      "archiveId": "archive:069bf28195adf3f7",
+      "actors": [
+        "张涵予",
+        "福山雅治",
+        "戚薇"
+      ]
+    },
+    {
+      "id": "archive:87a931e1d0056f34",
+      "type": "movie",
+      "title": "追龙番外篇",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 1,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-14b258bae1911c9c.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "犯罪"
+      ],
+      "status": "done",
+      "recordedAt": "",
+      "notes": "",
+      "archiveId": "archive:87a931e1d0056f34",
+      "actors": [
+        "陈小春",
+        "王浩信",
+        "徐冬冬"
+      ]
+    },
+    {
+      "id": "archive:502101f9356c6d74",
+      "type": "movie",
+      "title": "金陵十三钗",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-f020834d57d96cbe.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "战争"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-12",
+      "notes": "商女但知亡国恨，为国捐躯始罢休",
+      "archiveId": "archive:502101f9356c6d74",
+      "actors": [
+        "Christian Bale",
+        "倪妮",
+        "佟大为"
+      ]
+    },
+    {
+      "id": "archive:b405822deb79ffea",
+      "type": "movie",
+      "title": "铁道英雄",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-8234bd30b0948df2.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情",
+        "战争"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-08",
+      "notes": "",
+      "archiveId": "archive:b405822deb79ffea",
+      "actors": [
+        "张涵予",
+        "范伟",
+        "魏晨"
+      ]
+    },
+    {
+      "id": "archive:7a92173ac3d29571",
+      "type": "movie",
+      "title": "长安三万里",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-735dfd1cde1626d3.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "动画",
+        "历史"
+      ],
+      "status": "done",
+      "recordedAt": "2023-10-15",
+      "notes": "",
+      "archiveId": "archive:7a92173ac3d29571",
+      "actors": [
+        "杨天翔",
+        "凌振赫",
+        "吴俊全"
+      ]
+    },
+    {
+      "id": "archive:158da9c5af6920c3",
+      "type": "movie",
+      "title": "长津湖",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-8db8decff2b1b797.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "战争",
+        "历史"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-02",
+      "notes": "抗美援朝，刚登陆朝鲜与美军交战，一切为了家人与祖国，军人就是正面交锋，狭路相逢勇者胜",
+      "archiveId": "archive:158da9c5af6920c3",
+      "actors": [
+        "吴京",
+        "易烊千玺",
+        "段奕宏"
+      ]
+    },
+    {
+      "id": "archive:ab44a45be75f2e44",
+      "type": "movie",
+      "title": "长津湖之水门桥",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-2bfcb1158baac0bf.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "战争",
+        "历史"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-19",
+      "notes": "抗美援朝水门桥的故事，炸了美军又建起来，钢七连最后死剩伍万里一个人",
+      "archiveId": "archive:ab44a45be75f2e44",
+      "actors": [
+        "吴京",
+        "易烊千玺",
+        "朱亚文"
+      ]
+    },
+    {
+      "id": "archive:0880788023726402",
+      "type": "movie",
+      "title": "隐入尘烟",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-f8f48090b4cb4892.webp",
+      "tags": [
+        "电影",
+        "中国",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-08-27",
+      "notes": "很感人，感觉在影射社会的不公，阶级的分化，底层人物生活不易。周遭事物弱肉强食却带着一点人情味的感觉，中国农村在改革开放后其实变化不大，农民思想还是欺负弱小的地主思想，阶级仍然存在并将继续存在。 看完就有一个想法，这个社会到底怎么了？好像每个人都没做错，但是最后为什么是这样？",
+      "archiveId": "archive:0880788023726402",
+      "actors": [
+        "武仁林",
+        "海清",
+        "杨光锐"
+      ]
+    },
+    {
+      "id": "archive:18dcdf5d9392cd00",
+      "type": "movie",
+      "title": "雷神4：爱与雷霆",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-b0ff13706836fe17.jpg",
+      "tags": [
+        "电影",
+        "美国",
+        "动作",
+        "奇幻"
+      ],
+      "status": "done",
+      "recordedAt": "2022-11-25",
+      "notes": "",
+      "archiveId": "archive:18dcdf5d9392cd00",
+      "actors": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Christian Bale"
+      ]
+    },
+    {
+      "id": "archive:4e1b0dfa8bd6b254",
+      "type": "movie",
+      "title": "霍比特人123",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-0fc23f9f7d236af2.jpg",
+      "tags": [
+        "电影",
+        "美国",
+        "奇幻",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "2022-09-04",
+      "notes": "",
+      "archiveId": "archive:4e1b0dfa8bd6b254",
+      "actors": [
+        "Martin Freeman",
+        "Ian McKellen",
+        "Richard Armitage"
+      ]
+    },
+    {
+      "id": "archive:486b3a0d9ff825ef",
+      "type": "movie",
+      "title": "青面修罗",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-bb52ce7132c7517e.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "动作",
+        "武侠"
+      ],
+      "status": "done",
+      "recordedAt": "2022-06-19",
+      "notes": "杀手组织的老大最后控制两国皇帝，费心机布局十几年终成功",
+      "archiveId": "archive:486b3a0d9ff825ef",
+      "actors": [
+        "冯绍峰",
+        "胡军",
+        "金晨"
+      ]
+    },
+    {
+      "id": "archive:aa6fc13bc1608a8f",
+      "type": "movie",
+      "title": "风语咒",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-c9ee7f94e4ec2e96.jpg",
+      "tags": [
+        "电影",
+        "中国",
+        "动画",
+        "奇幻"
+      ],
+      "status": "done",
+      "recordedAt": "2023-10-26",
+      "notes": "[https://www.notion.so](https://www.notion.so)",
+      "archiveId": "archive:aa6fc13bc1608a8f",
+      "actors": [
+        "路知行",
+        "阎萌萌",
+        "褚珺"
+      ]
+    },
+    {
+      "id": "archive:0e2755dbaaf8be5f",
+      "type": "movie",
+      "title": "飞鹰计划",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-93936c66d32c4947.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "动作",
+        "冒险"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-08",
+      "notes": "",
+      "archiveId": "archive:0e2755dbaaf8be5f",
+      "actors": [
+        "成龙",
+        "郑裕玲",
+        "Eva Cobo"
+      ]
+    },
+    {
+      "id": "archive:20dce5fb43612e90",
+      "type": "movie",
+      "title": "鸭王1",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-c4680dfbb07f26fb.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2023-04-08",
+      "notes": "",
+      "archiveId": "archive:20dce5fb43612e90",
+      "actors": [
+        "何浩文",
+        "袁嘉敏",
+        "何佩瑜"
+      ]
+    },
+    {
+      "id": "archive:9475161c8e9f2f8f",
+      "type": "movie",
+      "title": "鸭王2",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-18e69c399e2c5064.jpg",
+      "tags": [
+        "电影",
+        "香港",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2023-04-09",
+      "notes": "",
+      "archiveId": "archive:9475161c8e9f2f8f",
+      "actors": [
+        "何浩文",
+        "林子善",
+        "文凯玲"
+      ]
+    },
+    {
+      "id": "movie:2216383",
+      "type": "movie",
+      "title": "黑冰",
+      "subtitle": "",
+      "creator": "王冀邢",
+      "year": "2001",
+      "date": "2026-10-03",
+      "rating": 4,
+      "review": "王志文演绎，一个普林斯顿博士回国造药厂，生产冰毒（黄麻素半加工品）\n\n疯子与天才集于一身，人的性格和最后的结局往往与成长时候的遭遇有关，而这往往决定了一个人最后走向何处\n\n蒋雯丽演的女警官，从刚开始的好奇，到最后的接近，爱上郭小鹏，但是还是坚守了本心，没有堕落进去，但是读懂一个社会黑暗人格的她，必将久久不能自拔\n\n何谓黑暗人格？对世界有自己的认知，见识世界黑暗面（兽性，弱肉强食）并很好存活下来，而且将灭世作为毕生理想",
+      "url": "https://movie.douban.com/subject/2216383/",
+      "cover": "covers/hq-fe3965a8b8ee1990.webp",
+      "tags": [
+        "电视剧",
+        "中国",
+        "犯罪",
+        "剧情"
+      ],
+      "status": "done",
+      "recordedAt": "2022-03-20",
+      "notes": "王志文演绎，一个普林斯顿博士回国造药厂，生产冰毒（黄麻素半加工品）\n\n疯子与天才集于一身，人的性格和最后的结局往往与成长时候的遭遇有关，而这往往决定了一个人最后走向何处\n\n蒋雯丽演的女警官，从刚开始的好奇，到最后的接近，爱上郭小鹏，但是还是坚守了本心，没有堕落进去，但是读懂一个社会黑暗人格的她，必将久久不能自拔\n\n何谓黑暗人格？对世界有自己的认知，见识世界黑暗面（兽性，弱肉强食）并很好存活下来，而且将灭世作为毕生理想",
+      "archiveId": "archive:8e0c557efd22ab8d",
+      "actors": [
+        "王志文",
+        "蒋雯丽",
+        "师小红"
+      ]
+    },
+    {
+      "id": "archive:84845b99a3a87fe7",
+      "type": "movie",
+      "title": "黑寡妇",
+      "subtitle": "",
+      "creator": "",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-322bb1d5a954bddb.jpg",
+      "tags": [
+        "电影",
+        "美国",
+        "动作",
+        "科幻"
+      ],
+      "status": "done",
+      "recordedAt": "2021-12-22",
+      "notes": "漫威电影黑寡妇传记，讲述黑寡妇曾经的历史\n\n\n[黑寡婦 (電影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AF%A1%E5%A9%A6_(%E9%9B%BB%E5%BD%B1)#/media/File:Black_Widow_Theatrical_Poster.jpeg)",
+      "archiveId": "archive:84845b99a3a87fe7",
+      "actors": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "Rachel Weisz"
+      ]
+    },
+    {
+      "id": "archive:769948a080cc2486",
+      "type": "book",
+      "title": "2049：未来10000天的可能",
+      "subtitle": "",
+      "creator": "凯文·凯利, 吴晨",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "科技",
+        "未来"
+      ],
+      "status": "unknown",
+      "recordedAt": "",
+      "notes": "概念 from Kevin Kelly\n\n**所有技术系统的总和**，包括工具、机器、软件、社会制度、语言、法律、文化结构，甚至人工智能等一切非自然但由人类创造并不断进化的系统。\n\n<aside> 💡\n\n如果此时此刻可以窥探天机，则应穷己所能寻找一线生机 —— ManfredHu July 29, 2025\n\n</aside>\n\n# 2025-2049未来1万天的可能读书笔记\n\n场景：微信读书笔记，PC端阅读\n\nChatGPT出现几年了，一切都在往AI转变。不管是日常开发的习惯，搜索方式等都在转变\n\n甚至习惯于抖音豆包寻找资料，不保证真实性但是却是触手可及，AI会类似手机一样变成手边的工具越来越多的深入生活。\n\n在没有额外的交互设备，类似Apple Vision Pro出来前，Mobile&Web的AI工具就是所能接触的最早一批AI软件。但是如果有新的交互设备，AI又会变体。如硅胶的AI机器人可以直接模拟真人质感和情绪\n\n未来AI何去何从我不知道，但是可以站在巨人KK肩膀上展望一下，预判形式走好下一个10-20年",
+      "archiveId": "archive:769948a080cc2486",
+      "actors": []
+    },
+    {
+      "id": "archive:69e977444f9a3ac7",
+      "type": "book",
+      "title": "乔布斯传",
+      "subtitle": "",
+      "creator": "沃尔特·艾萨克森",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-72d796d19ce1203d.jpg",
+      "tags": [
+        "书籍",
+        "传记",
+        "科技",
+        "商业"
+      ],
+      "status": "done",
+      "recordedAt": "2022-05-29",
+      "notes": "被生母生父抛弃，后被领养，导致jobs缺少安全感，也是对细节的极致把控\n乔布斯浪荡不羁把别人肚子搞大却不认，apple lisa就是以他女儿命名\n嗑药却可以放CEO，不懂技术却可以管苹果公司，只要会忽悠，你就是无敌的\n要让兄弟觉得跟着你有钱途，不管什么性格都能忍受\n微信天龙人的设定就是跟乔布斯学的，优秀的人喜欢跟更优秀的人一起工作\n大小孩需要成熟的女人包容\n苹果放弃兼容性，自己掌控端到端的所有东西，包括硬件软件",
+      "archiveId": "archive:69e977444f9a3ac7",
+      "actors": []
+    },
+    {
+      "id": "archive:38b02056f784e840",
+      "type": "book",
+      "title": "亦无欢读孙子兵法",
+      "subtitle": "",
+      "creator": "亦无欢",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "军事",
+        "管理",
+        "国学"
+      ],
+      "status": "done",
+      "recordedAt": "2023-03-13",
+      "notes": "何谓将？此将为褒义词，将带军士浴血奋战，军士能力涨而收入足，安居乐业保家卫国 何谓奴隶主？不顾生死以利换之 决定的因素为，底层努力了能不能得到回报",
+      "archiveId": "archive:38b02056f784e840",
+      "actors": []
+    },
+    {
+      "id": "archive:8bbda285a2d58556",
+      "type": "book",
+      "title": "以日为鉴",
+      "subtitle": "",
+      "creator": "分析师 Boden",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "历史",
+        "日本史"
+      ],
+      "status": "doing",
+      "recordedAt": "2026-01-14",
+      "notes": "# 政府的选择\n\n- 资本主义国家为何要控制失业率？\n    - 稳定社会，控制失业率在5%附近\n    - 有利于保持适者生存的资本社会。工人有失业的压力会努力干活\n- 员工工资大涨5.6%，因为头脑发热的企业家加大产能投资。大家相信短暂的调整后续有经济复苏，所以加仓抄底，结果抄底抄了20年（从1989年开始社会对复苏的幻觉）\n- **1989 年 12 月 29 日，**日经 225 指数创下历史最高点 **38,915 点**（1975年石油危机后日本一直处于高速增长状态）\n    - 当年日本：\n        - GDP 增长仍然不错\n        - 企业盈利、就业尚可\n        - 社会整体并未感受到“衰退”\n        - 1990年每20人就有一个换车的，购买汽车这类家庭大宗消费表示社会民众对未来的信息\n        - 1985到1989年，每年都有企业因人手不足而破产。导致公司需要预留“接待经费”招人，1975年后工作这一代人没遇到过失业潮\n- 在1993年泡沫经济后半段开始出现**GDP首次负增长**，与之相伴的是失业率快速增长。为了应对失业潮，日本政府开始10年的就业率保卫战，也就是”就业冰河期“。本质是为了**减少失业人数维持社会稳定**\n    - **日本就业冰河期**，是指 **1993 年左右至 2004 年前后**，日本因经济长期低迷，企业大幅削减正式招聘，导致一整代年轻人无法进入稳定就业轨道的时期\n    - 现象：企业利润快速下滑，产能过剩。企业陷入恶性内卷和亏损\n    - 价值观冲突：日本企业是终生雇佣制，员工愿意与企业共渡难关所依企业也不能随意裁员。裁员可以让企业利润打正但是与社会价值观相悖，且日本上下游企业交叉持股，裁员是连锁反应，也会有连锁的社会问题\n- 日本政府的选择：10年保就业\n    - 大吃小：企业大吃小，银行给大企业贷款，或者政府牵线让多家小企业合并抱团取暖\n    - 雇佣外包：保障已经就业的老员工不失业，新人去外包公司，放弃大学生的培养\n    - 结果：10年间钱用于养僵尸企业，高科技产业停滞。银行坏账多，导致1998年银行业破产潮",
+      "archiveId": "archive:8bbda285a2d58556",
+      "actors": []
+    },
+    {
+      "id": "archive:28c2d54bd2b57d74",
+      "type": "book",
+      "title": "半小时漫画世界史大全集",
+      "subtitle": "",
+      "creator": "陈磊·半小时漫画团队",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "历史",
+        "世界史",
+        "漫画"
+      ],
+      "status": "unknown",
+      "recordedAt": "2025-07-10",
+      "notes": "",
+      "archiveId": "archive:28c2d54bd2b57d74",
+      "actors": []
+    },
+    {
+      "id": "archive:5b551169e9b7b90c",
+      "type": "book",
+      "title": "半小时漫画中国史大全集",
+      "subtitle": "",
+      "creator": "陈磊·半小时漫画团队",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-ca4b8b39ac074e08.jpg",
+      "tags": [
+        "书籍",
+        "历史",
+        "中国史",
+        "漫画"
+      ],
+      "status": "doing",
+      "recordedAt": "2022-10-14",
+      "notes": "漫画历史书，冷笑话还不错\n\n1. 禅让制 → 世袭制，可以追随到夏朝，大禹治水积累声望，儿子开启夏朝，传承1代被携天子，最后王国\n    1. 人都是自私的，就算你不愿意，别人也会逼着你做，家天下是人之常情。皇位就是世袭\n    2. 富不过三代，再好的教育也敌不过环境的影响",
+      "archiveId": "archive:5b551169e9b7b90c",
+      "actors": []
+    },
+    {
+      "id": "archive:57959ef6049c6858",
+      "type": "book",
+      "title": "卓有成效的管理者",
+      "subtitle": "",
+      "creator": "彼得·德鲁克",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "管理",
+        "自我管理"
+      ],
+      "status": "unknown",
+      "recordedAt": "",
+      "notes": "https://mp.weixin.qq.com/s/c_ecNDVtMNJX6vO7SO_rKg\n\n# 前言\n\n1. **管理自己**, 组织整体绩效 * 比例 = 管理者绩效 = 管理者获得报酬的原因 = 其他人主要绩效总和, 所以提升自己的绩效就是抓组织主要绩效\n2. **做自己擅长的事**, 原理每个人都有自己的能力边界. 做自己擅长的事并不是逃避弱点, 如果**弱点严重妨碍了自己的发挥, 就去克服弱点**. 这里说的是做自己对组织最大输出的事, 如果人人都可以做对组织的最大输出, 组织整体运行效率是最大的\n3. **安排时间，每时每刻只做一件事**。安排**独处时间**和**创造性工作时间**。\n    1. 划出整块时间用于个人思考, 安排在思维最清楚的时段\n    2. **留出时间给突发事件**不做其他安排\n    3. 只参加重要的必须的会议, 利用会议开展对话,讨论和决策. **会议要有议题, 会前做好准备, 会后TODO项跟进要严格跟进**\n4. 决策成本巨大，决策应形成**决策思路或者决策方法论**。后续决策以此为准，不需要每次决策都反复论证决策有效性, 组织上下反复传达信息让Leader层做决策是低效的, 智力劳动一线就是管理者, 拥有最基本的决策权\n5. 组织大小不等于个人影响力大小(大公司出来的人不一定比小公司的人影响力大), 而要思考**组织里少了自己不会产生绝对重大的贡献**, 这个才最能体现个人价值\n6. TODO项很多(超出3个), 就需要把其中一些停掉, 如果每件事都要办则是缺少自律的表现, 如果你觉得一件事现在可以停止, 则说明它不再重要\n7. **组织需要保持精干**, 组织越大则会花费越多经历用于内部事务管理, 也就是内耗. 找到最好的人, 扩大他们职责让他们放手去做. **组织规模越小, 内部活动越少, 这个组织越接近完美(沟通成本小+能力强)**.\n8. **追求有用**, 人是在不断进步的, 不管是经验还是能力. 怎么取得成功是个伪命题, 正确的问题是**“如何才能有用?”.** 也就是追求最后的效果而不是效果带来的东西和过程, 成败论英雄职场尤甚\n9. 现代组织是大量个体建立的, 社会是多个现代组织建立的. **个人的有效性越来越依赖组织管理者取得有效性的能力**(分活,沟通,统筹协调等等)\n10. 什么造就有效管理?\n    1. 什么事是必须做的, 什么事对企业来说是正确的 → 赋予必要的知识和认知\n        1. 对做的事情按照优先级排序完成, 在顺序完成每一项后再次调整排序 (环境变化了,依赖项变化了)\n        2. 对企业不正确的决定对其利益相关者也不会是正确的, 企业=追求长期赚钱的组织\n    2. 制定行动计划, 决策, 沟通, 专注机会 → 知识和认知转化为有效的行动\n        1. 制定行动计划 = 出发→ 目的终点, 需要明白会遇到什么问题,\n            1. 行动项(执行者,DDL), 行动影响范围, 对哪些人周知行动和结果风险\n            2. 中途检查项(最少是2项, 中间和终点)\n            3. 风险点卡点\n        2. 建立一个可以对照衡量检验结果的体系\n            1. 定期评审风险, 初期决策不当也会在真正造成损失之前得到纠正. 决策1/3正确 , 1/3结果平平, 1/3是彻底的失败\n            2. 管理者对组织和同事负有义务, 不让绩效差的员工占据重要岗位(离职风险大+失败可能大)\n            3. 将事前估计和事后结果对比就可以验证一个管理者的水平, 知道需要提高, 知道哪里缺少知识和信息\n        3. 问题一定会被摆平, 专注问题并不会影响绩效, 而专注机会则会产生更大更多绩效. 把最优秀的员工用于把握机会而不是解决问题\n    3. 高效会议 , 用“我们”而不是“我”来思考和说话 → 确保整个组织梳理责任感并愿意承担责任\n        1. 知识型组织一线员工决策者是极其重要的, 因为专业知识工作者对自身领域的了解会超过其他任何人. 组织需要把这项技能明确无误传递给所有员工\n        2. 对上下级和同级理解自己的行动计划和信息需求, 并征求他们的意见来查漏补缺. (下级需求=必须思考, 同级需求=机会)\n        3. **维系知识性组织的纽带是信息**而不是所有权或者命令, 管理者相对下级有更多信息差, 前提是需要完全消化, 再向下传导决策. 对上同步行动计划寻求最大共识. 基于此需要**对自己需要的信息主动索取, 不断敦促**\n    4. 法则: **先倾听后发言**\n\n# 第一章 有效管理是可以学会的\n\n1. 有效=做好正确的事, 无效=无法长期聚集一群人做事\n    \n2. 真知灼见不等于成就, 只有借助勤勉而系统的工作, 洞见才会转为有效性.\n    \n3. 与此相对, 才智, 想象力和知识储备都是关键资源, 但是有效性会把这些转化为成果. 可以把有效性理解为炼炉, 任何东西经过炼炉最后变成成果.\n    \n    ```json\n    anything(才智, 想象力和知识储备) → 有效性 → 成果\n    ```\n    \n4. 体力劳动只讲效率, 也就是正确做事(to do things right)的能力. 可以用KPI定义产出, 比如生产一双更好质量鞋的单位时间和资源. 但是对管理者无效, 因为**管理者需要具备做好正确的事(对组织绩效最高优)的能力.** 一般制造业只需要几个管理者管理足够多的生产者即可, 这里的生产者与机器无两样.\n    \n5. **知识工作者无法被严格细致地监督, 而只能是受人帮助. 知识工作者必须做出决策, 承担做出贡献的责任, 并以成果和贡献作为自我指引**. 参考大型知识组织宽松氛围+目标结果导向的行事风格, 能做Leader的人, 本身需具备一定程度的有效性, 否则呆不长久. 知识工作者生产知识, 创意和信息, 这些东西不产生直接价值, 只有其他人以这些为生产资料再去输出才有价值\n    \n    1. 战场士兵战斗生死之间, 指挥官只是把信息差告诉士兵, 并让士兵知道应该怎么办. 责任是指挥官承担, 但是具体决策者是士兵\n    2. 工厂的监工虽然是“名义上的管理者”, 但是如果他们**不承担责任也无权做出改变**. 大体上还可以用效率和质量去衡量评估, 他们是”假管理者“\n    3. 知识工作者虽然不管理人, 但是他们的工作内容和成果可以匹敌, 那么管多少人只是行政问题. 比如投行, 1个人可以赚1000个投资顾问的钱, 那么多少人只是行政区别\n    4. **管理者指的是对组织绩效和成果产生显著影响的人, 他们不一定有手下(巴菲特), 也不一定有上级(比如独立执业律师)**\n    5. POC涉及计划, 组织, 整合, 激励和衡量, 虽然职责范围有限, 但是范围内他就是当之无愧的管理者\n6. 知识工作者是现代发达国家和经济体保持竞争优势的唯一“生产要素”. 对比其他国家, 教育在美国可能是唯一优势资源. 资源大量投入到教育, 建立人才优势\n    \n7. 知识工作者的生产率是做好正确的事的能力, 不在于数量, 而在于正确的事, 关键的事\n    \n8. 管理者面对的现实\n    \n    1. 通常管理者的时间属于别人, 被各种占用\n    2. 被迫忙于“日常作业”(小事). 除非特意改变, 否则被事情先来后到的顺序影响行动\n    3. 在组织之中沟通效率低下, 协同部分会让管理者“无效”. 管理者需要与同级沟通寻求机会, 如果不去接触**让自己对其他人“有效”**则自己就无有效性可言\n    4. 在组织之中信息是失真的, 信息是组织人员过滤后的, 带有主观臆断, 是预先消化和高度抽象的外部现实. **很多事情同事都是报喜不报忧, 这是人性使然.** 组织内部无成果, 发生在组织内部的只有努力和成本. 组织的成果作用于外部**用户或者客户**, 在没有作用外部前都没有成果. **外部环境是真正的现实**, 不是组织可以完全控制的. **组织内外部的共同作用影响最终结果**\n    5. 外部环境通常不可量化, 而内部信息通常可以量化. 这里有时间差, 当一个东西到内部可量化时候, 可能已经有点晚了. 所以管理者更需要把握外部不确定的机会. 外部变化重要的不是趋势, 而是趋势的变化. 如果过于依赖计算机的海量数据会阻断获取真实世界变化趋势\n9. 管理者最好具备的能力有下面这些, 但是这些不是最重要的. **组织是一个连接多人, 发挥各人长处, 寻求最大共同产出的团体.** 在现实面前, 人有能力边界, 组织是人形成的自然也有边界, **有效性就是寻求组织在有限资源下无限边界的产出**\n    \n    1. 分析能力和决策能力\n    2. 善于处理人际关系, 深谙组织和权力关系\n    3. 对数字敏感, 艺术眼光好, 有创造力\n10. 有效是一种习惯, 是一套惯常做法, 容易学会和上手, 但是难以精通. 需要反复练习. 快速决策势必出错, 制定正确的战略而不是眼花缭乱的战术, **道→ 法 → 术W**\n    \n    1. **知道自己的时间花在哪里**\n    2. **关注对外贡献**\n    3. **以长处立身处世**\n    4. **聚焦少数重要领域**\n    5. **做出有效决策**\n\n# 有效管理\n\n1. 管理总体上需要以身作则，**管理的有效性是管理者获得报酬的原因, 也是管理者绩效考核的唯一标准**。现代社会已变成组织型社会，个人有效性依赖组织管理者有效性能力.\n    1. 如何衡量管理的有效性?\n        1. 组织整体输出, 战斗力. 市场竞争力\n        2. 人才梯队是否健全, 下对上评价. 离职率, 特别是因管理问题而导致的离职\n        3. 上下, 平级组织关系评价\n        4. 技术特有: 风险把控能力, 技术先进性, 研发效率, 沟通效率\n2. 如何有效管理\n    1. 知识储备\n        1. 什么事是必须做的? 每完成一个TODO, 都需要审视后续TODO, 应为后续TODO重要性会发生调整\n        2. 什么事对企业/组织来说是正确的? 决策者是人, 不能保证100%正确. 但是如果不提则错误的决策就是必然的\n    2. 知识转化为行动\n        1. 制定行动计划\n        2. 承担决策责任\n        3. 承担沟通责任\n        4. 专注机会而不是问题\n    3. 确保整个组织树立责任感并愿意承担责任\n        1. 召开高效的会议\n        2. 用“我们”而不是“我”来思考和说话, 即管理者的事情变为组织的事情\n\n# 第一篇-管理时间注重贡献\n\n- 卓有成效：工作有效，有绩效、成就。\n- 管理者：一位知识工作者如果能够凭借职位和知识对该组织负有贡献的责任，影响组织的经营成果，则可以被视为管理者。管理者的目的不一定是管理其他人，而是专注于组织的贡献\n\n**卓有成效是可以学会的，也是必须学会的**。\n\n卓有成效是管理者的职责所在，不论是负责他人和自己绩效的管理者还是仅对自己绩效负责的专业工作者。现在社会已经成为一个由各种组织构成的社会，个人的成效越来越取决于其在组织中的工作表现，是否能成为卓有成效的管理者。而社会及其运转的成效，也越来越取决于各类组织中管理者的成效。卓有成效的管理者已成为社会的关键资源，也是个人获得成功的主要标志。\n\n因此，无论是年轻人还是职业发展中的人，都应致力于成为卓有成效的管理者。\n\n## **一、卓有成效是可以学会的**\n\n**管理者先高效起来, 组织才能高效运转。 领导者绩效=团队整体绩效 x 一定比例，管理者有效才可以长期聚集一群人一起产生贡献，因此管理者被期望有效。有效首先就要“做正确的事”**\n\n然而，卓有成效的管理者却非常少见，尽管管理者普遍才智较高、想象力丰富、知识水平高，**但一个人的有效性与才华横溢等因素几乎没有太大关系**\n\n```jsx\n公式: 任何事物 → 有效性 → 成果\n目标：成果和贡献，目标导向\n氛围：宽松氛围，除目标外其他可以不用太关心\n合作: 知识工作者的工作难以自己闭环，需要生产知识，创意和信息\n工作：计划，组织，整合，激励，衡量\n```\n\n- 【管理自己】**每个人相对其他专业的人都是傻瓜，你应该专注于提升自己的绩效从而提升团队的整体绩效**\n- 【对待弱点】**如果弱点直接妨碍你发挥长处，那就去解决弱点**\n- 【外部资源】**找到自己和他人的长处，并不断利用长处产生成果。以自己最高效的方式工作**\n- 【内部资源】**智力、想象力和知识是重要资源，但只有通过卓有成效的工作，才能将这些资源转化为成果**\n\n## 学会卓有成效\n\n1. 管理时间\n2. 注重贡献\n3. 用人之长\n4. 要事优先\n5. 有效决策\n\n细节\n\n1. 有效的管理者知道他们的时间用在什么地方。**时间是最稀有的资源**\n    - **记录时间和管理时间**：也就是诊断自己的时间，先记录然后找出非生产性、浪费时间的活动，将这些活动从时间表除掉\n        - **划出整块的个人思考时间，在思维最清楚的时间完成思考**\n        - **每次只做一件事**，事情多会让自己分心\n        - **减少会议**，只参加真正重要的会议。利用会议时间有效开展对话，讨论和决策\n        - 做好会议准备, 明确会议主题和跟进项\n    - **统一安排自己可以支配的时间**：时间被分割为多段等于没时间，时间管理的最后一步就是将自己可以支配的零散时间集中起来\n2. 有效的管理者重视对外界的贡献。重视贡献是有效性的关键，“**我能做出什么贡献**？”。避免重视勤奋忽略成果。\n    1. 知识工作者的工作衡量标准无定式\n    2. 需要关注整个组织的成果和绩效目标，从自己的专业出发结合组织的成果绩效去得出自己应该做什么\n    3. 我的时间计划上的哪些活动是别人同样可以做好，甚至做得更好的？要想有时间去做要紧的事，唯一的办法是把别人能做的事分出去\n3. 做事\n    1. 有效的管理者**善于利用长处**，包括自己的长处、上级的长处、同事的长处和下属的长处\n    2. 有效的管理者**集中精力于少数重要的领域**，在这少数重要爱的领域中，如果能有优秀的绩效就可以产生卓越的成果\n    3. 个人的自我发展很大程度上取决于对贡献的专注\n    4. 专注于贡献的管理者会激发其他人的自我发展。知识工作者会按自我要求去发展. 对自己没要求就原地踏步，自我要求很高就可以成长为杰出人物\n    5. 最后，有效的管理者必须**善于做有效的决策**\n4. 管理者与绩效出色的工作者从上到下的沟通\n    1. 我对你的工作应该有哪些了解？\n    2. 关于组织你有什么想跟我们说的\n    3. 你发现有什么机会是我们还没有抓住的？\n    4. 你发现什么风险是我们没察觉的？\n5. 组织越大，用于沟通的成本就越大。用于开展工作完成目标和取得成果的时间就越少\n    1. 任用决策不能太快，否则容易出错。也就是用人不疑，有疑点都要摸清\n    2. 管理者级别越高，用于维系组织正常运行所需要的时间越多。用于让组织发挥作用和取得成果的时间减少\n    3. 上下级有信息差，下级的目标与上级有区别。所以这里沟通对齐两者目标非常重要。换句话上级考虑 “你的目标我要如何配合你？”\n6. 绩效\n    1. 取得直接成果\n    2. 确立并不断强化价值\n    3. 培育和开发将来需要的人才，因事寻人，因事设岗而不是因人设岗\n    4. **绩效评定是一个结构**（今年收入500W，A做了A，B做了B，A比B对收入的重要性占比更大），只有把人的产出放进去才能揭示最后的绩效。所以需要合作良好+分工合理，试验过后才知道对AB各自是否合适\n    5. 晋升考评不会在最后，而是要在平时交流中。对有希望准备负责职责更大的职位之前得出的结论，需要发现短处和长处。思考下列问题\n        1. 【已有】他在哪个方面做的很好\n        2. 【未来有】哪些方面可以做的更好\n        3. 【准备】他要充分发挥长处还需要学会哪些东西\n        4. 【人性】如果我有儿女会愿意送到他手下工作吗？愿意和不愿意分别是为什么？为什么要这样问？如果你都是否定的，那这个人在组织里即使有能力也会在某个时刻把组织带向深渊\n7. 如何高效主持会议\n    1. 明确会议主题, 为什么要开这个会，阐述会议目的和预期成果。会议中不要偏离这个最初的目的\n    2. 明确参会人员\n    3. 明确会议结论，列出会议后续TODO项和跟进人，DDL\n    4. 会议结束应该呼应开场的话，阐述最后结论与一开始会议目的的关联关系\n8. 同事间的关系\n    1. 不会跟直接同事和下属建立特别亲密的关系，关系亲密在职场会让人觉得有顺从或者纽带关系而不是公平。久而久之会让人离开，而如果保持适当距离可以建立多样性的团队——**人前公平+疏远，人后可变**\n    2. 与同级经常对齐，因为你的产出可能是别人的依赖。别人的产出可能是你的依赖，互相结合可以做更大的产出和合作\n\n### 如何发挥人的长处\n\n有效管理者能使人发挥其长处。只抓住缺点和短处是干不成任何事情的，为实现目标必须用人所长--同事所长、上级所长、自己所长，利用好长处能带来真正的机会。管理者的任务，就是要充分运用每一个人的长处，共同完成目标。\n\n1. **用人所长**: 每个人都有自己的优缺点, 要看到别人的优点, 少看别人的缺点. 先发现这个人可以做什么(优点出发), 再去要求他能做到什么程度\n2. **因事用人:** 因为有什么样的事情, 我需要一个什么样子的人去承接达成什么效果. 才会产生这个“人”的职位和工作, 而不是因为有这个人来了, 我需要为他配置什么样的事情\n    1. 职位都有自己的要求, 不要设置超人职位, 脱离现实\n    2. 严格的职位要求, 涵盖范围要广. 人都是会发展的, 如果职位只有1没有2, 这个人就没有能力&发展, 短期会流失. 需要给他向上发展的空间\n    3. 忽略职位的要求, 而去关注这个人可以干什么? 职位与能力并不完全挂钩\n        1. 哪些方面的工作他确实做得很好？\n        2. 因此，哪些方面的工作他可能会做得更好？\n        3. 为了充分发挥他的长处，他还应该学习或获得哪些知识？\n        4. 如果我有个儿子或女儿，我愿意让我的子女在他的指导下工作吗？ (品格)\n            1. 如果愿意，理由是什么？\n            2. 如果不愿意，理由是什么？\n    4. **用人之所长的同时，必须容忍人之短。如果这个人真的非常厉害全能，那他应该去创业而不是变成员工，因为组织会给他无形束缚，交流成本也更高**\n    5. 针对弱点, 弱点可以通过组织里的人取长补短. 只要弱点不至于限制他的发挥, 没必要盯着弱点不放\n3. **管理上级: 让上级发挥其所长，不是靠唯命是从，而是从正确的事情出发，并以上级能接受的方式向其提出**\n    1. 上级也有缺点: 但是可以聚焦放大上级的优点, 让各自都有效\n    2. 了解上级的有效信息渠道: 有人喜欢听, 有人喜欢数据, 有人喜欢文档, 用他认为最有效的方式让他帮助你完成, 这就是我们的最终目的\n    3. **与上级的关系：不是取而代之，而是推他上去**\n4. **发挥自己的长处**\n    1. 了解自己能做什么和该做什么，就算有客观限制，有一定能做出许多有意义的工作\n        1. 可能现在不适合做，但是某个时机却适合了。机会总是在不断变化并且留给有心人\n        2. 新人有冲劲，打破砂锅问到底。某些时候有奇效，可以突破已有的屏障\n        3. 几乎都可以找到重要有意义的事去做，甚至让自己的时间和资源都不够用\n    2. 了解工作习惯顺应自己的个性特点，配合自己的习惯而行动\n    3. **多思考”什么事是我比较容易做好，但是其他人会望而生畏？“**\n\n**总而言之，管理者的任务不是改变人。管理者的任务，在于运用每个人的才干。**\n\n### 要事优先\n\n集中精力办大事, 选择最重要的事情去完成它. 其他小事有心则跟无心则放, **做事要聚焦才可以高效**\n\n**为什么需要集中精力？**人的精力有限, 休息和学习是为了后面更大的贡献\n\n**摆脱昨天重视明天.** 如果一直关注自己昨天的成败而不重视明天的机会, 会陷入无休止的自责(败了)和自傲(成了)中\n\n**推陈才能出新.** 企业需要创新和活力, 而不是死气沉沉\n\n**先后次序的判断:** 在管理者面前，摆着很多值得去做的工作，但管理者的时间有限，这就涉及哪些事情需要优先处理，哪些事情可以缓一缓再办的决策了。**确定优先级的决策过程非常复杂。在确定哪些应该优先、哪些可以延缓时，最重要的不仅是分析，还需要拿出勇气。**创新会有风险、艰辛和不确定性，但化机会为成果肯定比解决就问题更有生产性。解决旧问题不过是恢复昨天的平衡。\n\n1. **重将来而不重过去; 新时机, 新市场, 新机会, 阻力小**\n2. **重视机会，不能只看到困难;**\n3. **选择自己的方向，而不盲从;**\n4. **目标要高，要有新意，不能只求安全和方便**\n\n总的来说，一位有效的管理者会**将主要精力集中在正在进行的主要工作**，而非分散在其它工作。**完成任务后根据情况变化决定下一步的优先事项**。填坑是常态, 不管是自己之前留的坑还是其他人留的坑, **学会减少负担. 及时止损而不要怕丢面子** 专注于一项工作需要足够的勇气，需要勇敢地决定哪项任务最重要和最紧急。只有这样，管理者才能主宰时间和任务，而不是成为它们的奴隶。\n\n### 有效的决策\n\n**决策的五个要素**\n\n1. 要确实了解问题的性质，如问题是经常性的，那就只能通过一项建立规则或原则的决策才能解决\n    - **真正经常性的问题**。发生的个别问题，只是一种表面现象。日常遇到的问题大部分是此类。\n    - **偶然发生但是本质是经常性问题:** 虽然是在某一特殊情况下偶然发生，但在实质上仍然是一项经常性问题。\n    - **真偶然事件:** 才是真正偶然的特殊事件。真正偶然的事件很少，一旦发生时，必须自问“这是一次真正的偶然事件”，还是另一种“经常事件”的首次出现。\n    - **总结:** 除了\"真正偶发的特殊事件\"，其余问题都需要一种常规解决方法。这意味着需要制订规则、政策或原则。有了正确的原则后，所有类似问题的解决将变得简单。只有真正偶发的特殊事件才需要特别处理，并没有固定原则可以遵循。\n2. 要确实找出解决问题时必须满足的界限，换言之，应找出问题的\"边界条件\"\n    - 决策的第二要素，在于确定决策应该遵循的规范。**最低达成什么目的**？应该满足什么条件？也就是所谓的**“边界条件”. 边界条件越准确、越详尽，做出的决策就越有效。**相反，如果边界条件模糊，那么决策，无论多么显著，都会无效。\n3. 仔细思考解决问题的正确方案是什么，以及这些方案必须满足哪些条件，然后再考虑必要的妥协、适应及让步事项，以期该决策能被接受\n    - 决策的第三要素，是**研究“正确”的决策是什么**，而不是研究“能为人接受”的决策是什么. 因为人性原因**人总是倾向采取折中办法.**\n    - 关注决策是否容易被他人接受，**考虑如何让人接受又害怕有人反对，会浪费时间无果**。**担忧的事往往并不发生，未曾担忧的却可能成阻碍。**若开始思考就担心被拒绝，你将不敢提出最重要结论，所以你也得不到有效和正确的答案。\n    - 妥协分两种，一是有好过没有（半个面包好过没有面包），二是有坏的不如没有（半个婴儿活不了）\n4. 决策方案要同时兼顾执行措施，让决策变成可以被贯彻的行动\n    - 有效的决策应包括具体的行动步骤，指定责任人。将决策转化为行动需要明确几个问题：**谁应该知道这个决策？需要采取什么行动？谁来执行？以及如何执行？**\n5. 在执行的过程中建立反馈制度和重视反馈，以印证决策的正确性及有效性\n    - **决策由人做，人难免会犯错误。最好的决策也不可能永远正确，最有效的决策总会被淘汰**\n    - **需要组织化的信息作为反馈，需要数字，也需要报告. 正确的衡量标准不是数学演算, 而是具有风险的判断**\n    - 凡是做判断, 都会从多个备选方案中有中选优甚至组合校验. 比如投资=投资回收周期(速率)*投资回报率(比例)*投资回报的现值(价值)\n    - **无不同意见, 不做决策:** 管理者需要做的决策通过鼓掌欢呼是做不好的, 只有不同视角的碰撞和对话才会做得好\n\n**从自己的见解开始，自问什么是正确的？**\n\n决策是一种判断，是在若干方案中的选择。所谓选择，通常不是“是”与“非”之间选择(没有绝对)，而是在“大概是对的”和“也许是错的”之间选择，其中任何一个不一定优于其他的。\n\n大部分关于决策的著作都建议“先收集事实”，而有效的决策者知道，**决策的过程往往不是从收集事实开始的，而是从个人的见解开始的**。**见解→收集数据&资料认证→做出有效决策, 见解是对宏观数据和资料认证的提前大概判断**\n\n决策可能不是一个人的事而是群体决策, 此时决策代表群体的见解. 群体见解的统一需要摆事实和数据, 获得团队大多数人的支持和补漏, 起码不能有明确的反对和卡点. **有效的决策常从相互冲突的见解中产生，绝非单一意见的结果**。\n\n1. **有效的管理者做决策时不是从收集事实开始，而是先有自己的见解.** 与科学实验类似, 首先要有一个支点, 再去找数据论证这个支点\n2. **有效的管理者鼓励大家提出见解。**但他也会要求大家深思其见解和可能的结果，因此，会问“要验证某一假设是否为真，我们该做什么？”。**他会培养这样的习惯：自己这样问，也使其他人这样问，认清需要观察、研究、验证什么？要求每个人理清应该寻找什么事实。**\n3. **关键的问题是：“相关的标准是什么？”**，问题本身的衡量和决策的衡量。这需要投入大量的时间和精力。\n    1. **有效的管理者，会先假设传统的衡量方法并非适当的衡量方法**。否则就不用做决策了，略做简单调整就可以。传统衡量方法反映的是昨天的决策。\n    2. **如何找出适当的衡量方法？只有依赖“反馈”制度，决策前的反馈**。例如，\"平均数\"用于人事问题，如\"停工\"或\"缺勤率\"，可能误导管理决策。亲身观察可能发现问题更集中于某些地方。依赖\"平均数\"作人事决策可能无法达成预期效果，甚至可能恶化问题。此时衡量方式就需要转化为中位数, 或中位数+平均数\n4. **有效的管理者一定要求有若干种不同方案，再选取最恰当的一种，**如果没有考虑每一个方案那就是偏颇。好的决策应以互相冲突的意见为基础，从不同的观点和不同的判断中选择。所以除非有不同的见解，否则就不可能有决策\n5. **有效的管理者做决策从来不靠“直觉”，强调必须用事实来验证。反对先下结论，然后寻找事实来支持这个结论。**\n\n**运用反面意见**\n\n1. **防止决策者变为组织的俘虏**：在任何组织中，成员总有自己的期待和需求，期望主管的决策对自己有利。能引起争议，提供实据，进过深度思考的反面意见，能防止决策者成为他人的意愿的受害者。\n2. **提供备选方案**：反面意见本身也是决策的“另一个方案”。如果只有一个决策方案，那等于赌博，失败的机会大增。如果有多个方案，决策者就有了攻防余地，可以进行多方思考和比较。如果原决策行不通，他们可以具备备选方案。\n3. **激发想象力**：处理问题时，尤其是高度\"不确定性\"的问题，需要有“创造性”解决方案，打开新面貌。想象力需要激发才能发挥出来，不同意见，特别是经过缜密推理、论据充分的不同意见能有效地激发想象力。\n\n**支持不同方案的提出, 有效的管理者会运用反面意见**: 不会盲目坚持自己的观点，而是致力于理解**为何存在不同的观点**。\n\n**是否需要决策**\n\n有效的管理者不仅需要做出决策，还需要问自己：\"我们是否真的需要做出新的决策?\" 因为在某些情况下，不作出任何新决策可能是最好的决策。**决策就像进行外科手术，任何新的决策都会影响现有的制度，并有一定风险**。正如外科医生在必要的情况下才进行手术，管理者也应在真正需要的时候才做出决策。\n\n那什么时候需要决策？\n\n**当持续执行现有规则会导致情况恶化，或者当一个重要且短暂的新机会出现时。这些情境下，需要立即做出新的决策。我们通常所做的决策，大部分决策都处于必须做决策与可以不做决策之间**。我们面临的问题通常并不是全无须担心，但也并非如此严重以至于需要立即做出新的决策。我们更常见的问题是如何改进，而非如何作出重大的变革或创新。**在这种情况下，有效的管理者会做出比较：做出新决策可能带来的收益和风险，以及不作出决策可能导致的损失**。**虽然没有具体的公式可以参考，但是如果遵循以下两个原则，应该能做出合理的决策：**\n\n1. **如果利益远大于成本和风险，就应该采取行动。**\n2. **应该完全行动或者完全不行动，避免只做一半或者折中的选择。**\n\n**最后，如果条件都具备了，决策需要判断力和勇气。**有效的管理者在必要的研究和评估后，应具备果断的行动力，并能勇于接受可能的困难和不欢，有效的决策执行往往让人不愉快。肩负责任，实现有效决策是管理者的主要任务。\n\n# 参考\n\n（内部参考链接仅保存在本地原文归档）\n\n（内部参考链接仅保存在本地原文归档）",
+      "archiveId": "archive:57959ef6049c6858",
+      "actors": []
+    },
+    {
+      "id": "archive:cfdf2312a397768a",
+      "type": "book",
+      "title": "厚黑学全集",
+      "subtitle": "",
+      "creator": "李宗吾",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-8b65348c9652681f.jpg",
+      "tags": [
+        "书籍",
+        "社会",
+        "心理"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-23",
+      "notes": "## 核心思想\n\n用历史表述，**又厚又黑者方能成功**。举例刘邦项羽、三国诸雄，古人之成功，不过脸厚心黑而已。\n\n怕老婆者能成事——怕老婆者为严夫严父，少时听长辈，结婚后听老婆，夫妻生活和谐，子女教育有红白脸，社会大和谐。\n\n> 可为知者告，难为俗人言\n\n## 关于作者\n\n[李宗吾（维基百科）](https://zh.wikipedia.org/wiki/李宗吾)（1879年2月3日－1943年9月28日），原名李世楷，字宗儒，后改字宗吾，四川富顺自流井（今四川自贡市）人，清末与民国时期学者，以其著作《厚黑学》一书闻名于世，更由此自号\"厚黑教主\"。\n\n## 厚黑三境界\n\n参考[性恶论（维基百科）](https://zh.wikipedia.org/wiki/性恶论)——人的动物性，弱肉强食。\n\n1. **境界一**：厚如城墙，心如煤炭\n2. **境界二**：厚而硬，黑而亮。别人再难听的话都忍得住；越黑则越是被人害怕，是金亮的招牌——别人知道你心黑，害怕而不欺\n3. **境界三**：无形无色\n\n## 求官六字诀\n\n| 字 | 要义 |\n| --- | --- |\n| **空** | 求官需专心钻营，不工不商不农不贾，其次要有耐心，今日不行明日继续，今年不行明年继续 |\n| **孔** | 有孔必入，无孔也要入，有孔扩大，无孔拿起钻子新开一孔 |\n| **吹** | 吹牛，口头上分普通场所和上司面前，文字上分报章杂志及说贴条陈 |\n| **捧** | 捧场 |\n| **恐** | 恐吓，恐捧相互，恐中带捧，捧中带恐，恐字要有分寸，非到无可奈何不能轻用 |\n| **送** | 大送即钱一包包送，小送则是请客小礼物等。有决定权的要送，没决定权但有助力的人也要送 |\n\n## 做官六字诀\n\n| 字 | 要义 |\n| --- | --- |\n| **空** | 文字上空洞，参考军政机关。办事上东倒西倒，有时雷厉风行暗中藏有退路，见势不妙从后路抽身就走 |\n| **恭** | 分对上司和上司太太亲戚朋友等 |\n| **绷** | 与恭相反，指对下属和百姓。仪表上赫赫大人物，凛不可犯；言谈上腹有经纶。恭绷相对指的都是有决定权的人，若百姓有决定权，则改绷为恭。**运用之妙，存乎一心** |\n| **凶** | 为达到目的不要顾忌，凶上定要蒙一层道德仁义 |\n| **聋** | 耳聋，\"笑骂由他笑骂，好官我自为之\"，文字上的诋骂闭眼不看 |\n| **弄** | 弄钱，当官不为钱不如不当官。与送对应，有出定要有入，公事上通得过为成功；通不过自垫腰包，也无妨 |\n\n## 办事二妙法\n\n**锯箭法**：中箭请外科医生治疗，医生将箭干锯下即索谢礼，箭头去寻内科医治。比如有事寻来，说\"这个事情我很赞成，但是还要与某人商量\"——\"很赞成\"是锯箭干，\"某人\"是内科。又或说\"我先把某部分办了，其余的以后办\"——某部分是箭干，\"以后办\"是内科。\n\n**补锅法**：锅漏了补锅匠来补，让主人转身点火，补锅匠把裂缝搞大，然后跟主人说裂缝太大了要多补几个钉子，主人看到后觉得补锅匠负责，皆大欢喜。\n\n## 历史观与真理观\n\n- 主观学说引用客观事物，历史为客观皆为我所用。秦朝诸学说引用上古开国帝王创立学说是为了学说正名。后世孔子儒家学说独尊，其他百家被罢黜——儒家学说即\"行仁义者昌，不行仁义者亡\"，古今成败历史人物，能用上就引用，用不上就弃。**即戴什么眼镜，见什么颜色**\n- 有些事做得说不得，有些事说得做不得\n- 真理越辩越明，孔子曰、孟子曰、达尔文、卢梭，皆是从自身学说出发思考世间万物。**存在即真理，存在即合理**\n- 牛顿和爱因斯坦的真理任人怀疑攻击，未强人信服，反而无人不信从。宗教则说不信我你要下地狱，下辈子投胎做牛做马，处于威吓一途，确是不得深究\n\n## 人性与社会\n\n**心有引力**：将所见所闻在心里吸引住（脑神经的印像）。人对周围事物有远近亲疏的感觉，如从我出发到双亲、兄弟姐妹、邻人、本省人、本国人、外国人，一层一层划分开，类似磁场的分布排列。\n\n**性善性恶之辩**：事物很多是中性的——如好友与人打架，你想着好友能赢是性善还是性恶？从孟子看法你爱惜好友的安危是人道主义，属性善；从荀子看法打架双方都是人，你不问各种缘由只愿友胜是自私的，是天性的表露。厚黑认为两者看法都偏颇——人生来有远近亲疏之分，孟子荀子都是为了当时的立说而故意诡辩，只说了一面。\n\n**社会公共黑幕**：自古迄今，社会有一种公共的黑幕，不论是国与国之间、人与人之间，大家心里都知道的公例，不能揭穿，揭穿了就会受到社会的制裁。社会的公例可以用一句话表述即\"逢人短命，遇货添钱\"。中国社会很多都是\"**厚黑为里，仁义为表**\"。\n\n**尊重双亲与爱美女**：尊重热爱自己的双亲是天生的，喜欢美女也是天生的，都是人的本性——都是人生来的欲望，无需讳言。\n\n## 国家与公私\n\n- **国家政治外交**：一国超强时，学管仲联合弱小的力量对抗强国；到了战国割裂时代各方势力平均，此时需要从平均中突出发展而荡平其他势力，大鱼要吃小鱼才能成长\n- **世界规律**：与力学相同，在互相的作用下螺旋式发展，有低谷也有高潮\n- **公私三时期**：\n    - 第一时期：上古人浑浑噩噩，只有公共财物而无个人私财\n    - 第二时期：人民觉醒，自私自利之心日益发达，将公共财务收为自己的，有私而无公\n    - 第三时期：公私有界限，公财放到社会众人，私财归到自身，公私并行\n    - 我们的社会在第二时期末，只有公私划分清楚，社会才能相安无事\n- **竞争与谦让**：达尔文的学说将生物进化的竞争强调得太过，儒家文化将谦让也太过。合适的做法应该是竞争常态下，在满足自身生存环境下适当地谦让\n\n## 盈虚消长之理\n\n> 贫贱生勤俭，勤俭生富贵，富贵生骄奢，骄奢生淫逸，淫逸又生贫贱。♻️\n\n春夏秋冬，国家兴衰按照一定的规律发展。\n\n## 格物致知\n\n> 《礼记·大学》：古之欲明明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知，**致知在格物**。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。\n\n**格物 → 知至 → 意诚 → 心正 → 身修 → 家齐 → 国治 → 天下平**",
+      "archiveId": "archive:cfdf2312a397768a",
+      "actors": []
+    },
+    {
+      "id": "archive:2a8cadb69bdd6bdc",
+      "type": "book",
+      "title": "哈佛大学推荐的20个快乐习惯",
+      "subtitle": "",
+      "creator": "汤健",
+      "year": "",
+      "date": "",
+      "rating": 0,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-6f60f5b87c0f8ac7.webp",
+      "tags": [
+        "书籍",
+        "心理",
+        "自我管理"
+      ],
+      "status": "doing",
+      "recordedAt": "2022-01-08",
+      "notes": "- 跟着自己的兴趣走，快乐生活。最好的工作是你做自己喜欢的事并顺便把钱赚了\n- 拿的起放得下，放弃局部利益获得全局利益。\n- 要多向养成幽默感，必要时可以自嘲来引起别人的共鸣。\n- 宁静淡定是一种采菊东篱下，悠然见南山的恬静自得，我们所说的宁静淡定，并非意味着折中调和模棱两可圆滑平庸等心态，而是不去怀疑，不去嫉妒，不去抱怨，也不去恐惧，这里的宁静淡定体现的是一种。\n- 多睡多休息才能更好的工作，多次小憩保持最佳状态。",
+      "archiveId": "archive:2a8cadb69bdd6bdc",
+      "actors": []
+    },
+    {
+      "id": "archive:e34be99f9fbb2520",
+      "type": "book",
+      "title": "大明王朝1566",
+      "subtitle": "",
+      "creator": "刘和平",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "小说",
+        "历史",
+        "中国史",
+        "政治"
+      ],
+      "status": "done",
+      "recordedAt": "2023-02-13",
+      "notes": "皇帝：权衡各方，谋取私利，皇室舒服，巩固帝位\n\n大臣：玩命搞钱，派系互斗，对上忠心耿耿，对下欺瞒压榨，睁一只眼闭一只眼\n\n百姓：妥妥被鱼肉，少数实现阶级跃迁，比如齐大柱\n\n**结尾：看清世道形式，取己所求，略去其次。资源有限，众口难足**",
+      "archiveId": "archive:e34be99f9fbb2520",
+      "actors": []
+    },
+    {
+      "id": "archive:9e3df0f5d88b1517",
+      "type": "book",
+      "title": "天道 遥远的救世主",
+      "subtitle": "",
+      "creator": "豆豆",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-f7658030fd22827f.jpg",
+      "tags": [
+        "书籍",
+        "小说",
+        "社会",
+        "商业"
+      ],
+      "status": "done",
+      "recordedAt": "2022-01-28",
+      "notes": "## 文明与物质基础\n\n文明对于不能以人字来界定的人，无能为力。只有基础物质生存够了，才能考虑文明延续和精神自由。\n\n## 神即道\n\n**神即道（规律），道法自然，如来**——神就是自然规律道理，道法自古存在自然界，能掌握人生就如意，来去自如。\n\n## 强势文化与弱势文化\n\n> **弱势文化**：破格获取，救世主文化。人穷还期望别人的施舍救助而不是自己遵从自然规律去获取。\n>\n> **强势文化**：遵循事物规律的文化，在武学上被称为秘籍。\n\n---\n\n> 王明阳说：\"强盗的逻辑，直接获取，冒险，刺激。\"\n>\n> 芮小丹针锋相对地说：\"强盗的本质是破格获取，破格获取与直接获取是两个不同的概念。你们没有自信与强者在同一个规则下公平竞争，这只能说明你是弱者，因为弱势文化所追求的最高价值就是破格获取。所以，**强盗的逻辑从本质上讲是最懦弱的生存哲学**。\"\n\n## 灵魂的归宿\n\n灵魂需要归宿，你是什么人，你受到的教育和经历最后决定你的思想和境界，需要一块净土去做皈依。\n\n## 中国文化的反思\n\n> 丁元英说：\"中国为什么落后？你必然从现象参到制度、参到文化，因为**任何一种命运，归根到底都是那种文化的产物**。五千年的文化沉淀足以让你拍着胸脯说：我们有文化。但是，五千年的文化积淀却不能让你挺着胸脯回答：我们有什么文化？因为有文化和有什么文化不是一个概念。\"\n>\n> 丁元英说：\"是皇天在上的文化，是救主、救恩的文化。如果一个民族的文化从骨子里就是弱势文化属性，怎么可能去承载强势文化的政治、经济？衡量一种文化属性不是看它积淀的时间长短，而是看它**与客观规律的距离远近**。五千年的文化是光辉、是灿烂，这个没有问题。但是，传统和习俗要过客观规律的筛子。\"\n>\n> 芮小丹说：\"我不懂多深的理论，只能说自己的感觉。第一，这不是咱们可以操心的问题，是拿了薪水、享受这个阶层利益的人应该操心的问题。第二，改革和转变观念已经给中国带来了很大的变化，但是改革和转变观念不能脱离国情和国民素质，这不是谁一着急就能解决的问题，中国需要时间。\"\n\n## 开窗效应\n\n认识这个人就是开了一扇窗户，就能看到不一样的东西，听到不一样的声音，能让你思考、觉悟，这已经够了。\n\n## 透视社会三层面\n\n透视社会依次有三个层面：**技术、制度和文化**。\n\n小到一个人，大到一个民族一个国家，任何一种命运归根结底都是文化属性的产物。\n\n- **强势文化**造就强者\n- **弱势文化**造就弱者\n\n这是规律，也可以理解为**天道**，不以人的意志为转移。\n\n> 强势文化是遵循事物规律的文化，弱势文化是依赖强者的道德期望破格获取的文化，也是期望救主的文化。强势文化在武学上被称为秘籍。而弱势文化由于易学、易懂、易用，成了流行品种。",
+      "archiveId": "archive:9e3df0f5d88b1517",
+      "actors": []
+    },
+    {
+      "id": "archive:8cd4bd8c740166a7",
+      "type": "book",
+      "title": "娱乐至死",
+      "subtitle": "",
+      "creator": "尼尔·波兹曼",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-409555872c3a00de.jpg",
+      "tags": [
+        "书籍",
+        "媒介",
+        "社会",
+        "文化"
+      ],
+      "status": "unknown",
+      "recordedAt": "2022-10-14",
+      "notes": "译文，思想前卫但是2022年读1985年的书觉得内容很老旧，读一半不想读了\n\n1. **现实社会（书中主要以美国社会为例）的一切公众话语日渐以娱乐的方式出现，并成为一种文化精神。我们的政治、宗教、新闻、体育、教育和商业都心甘情愿的成为娱乐的附庸，其结果是我们成了一个娱乐至死的物种**\n2. **我们将会毁于我们热爱的东西，科技发展了，但是也是利器**\n\n[娱乐至死 - 维基百科，自由的百科全书](https://zh.m.wikipedia.org/zh-hans/%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB)",
+      "archiveId": "archive:8cd4bd8c740166a7",
+      "actors": []
+    },
+    {
+      "id": "archive:eb509d31f3e26b85",
+      "type": "book",
+      "title": "守住你的钱 To guard your money",
+      "subtitle": "",
+      "creator": "欧成效",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-d30a79192ac68a2b.webp",
+      "tags": [
+        "书籍",
+        "金融",
+        "理财"
+      ],
+      "status": "done",
+      "recordedAt": "2022-05-29",
+      "notes": "欧成效，水库论坛坛主。**底层爱平等，小资爱自由，上层爱保守嘛。**\n\n[yevon_ou （欧成效）是谁？](https://www.zhihu.com/question/49709916)\n\n## 列兵和阶层\n\n[https://zhuanlan.zhihu.com/p/201017743](https://zhuanlan.zhihu.com/p/201017743)",
+      "archiveId": "archive:eb509d31f3e26b85",
+      "actors": []
+    },
+    {
+      "id": "archive:91ec95660446cf98",
+      "type": "book",
+      "title": "微信十年",
+      "subtitle": "",
+      "creator": "张小龙",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-feb5bbc1368db2f1.jpg",
+      "tags": [
+        "书籍",
+        "产品",
+        "科技",
+        "商业"
+      ],
+      "status": "done",
+      "recordedAt": "2021-12-22",
+      "notes": "包含微信十年间大小产品遇到的一些产品问题和思考，包括几个大类。\n如摇一摇，搜一搜，公众号，小程序等的产生",
+      "archiveId": "archive:91ec95660446cf98",
+      "actors": []
+    },
+    {
+      "id": "archive:67c1c066223f10f9",
+      "type": "book",
+      "title": "曾仕强讲国学",
+      "subtitle": "",
+      "creator": "曾仕强",
+      "year": "",
+      "date": "",
+      "rating": 4,
+      "review": "",
+      "url": "",
+      "cover": "covers/archive-f5bfcd5e849400aa.jpg",
+      "tags": [
+        "书籍",
+        "国学",
+        "管理"
+      ],
+      "status": "done",
+      "recordedAt": "2022-06-29",
+      "notes": "who? 曾仕强，国学大师。49年移居台湾，对国学/管理有深刻认知\n\n\n\n# 中国式管理\n\n- 管理是管事而不是管人\n    - 中国人是自我驱动型，会从事情上体会出自己的看法后形成认知\n    - 管理事情，让下属去完成，完成后有奖励，形成正螺旋自然人就聚起来\n- 给每个人留面子\n    - 遇人说人话，遇鬼说鬼话\n    - 如何尊重老员工？一件活问他做不做，他一定推脱时间不够不做，这时候再给新人让老人监督。这样又尊重了老人又盘活了新人，而且老人一定怕新人做错会全盘盯着\n- 关心下属，尊重差异\n    - 不要一见面就说工作，只有关系好了，做事是水到渠成\n    - 做事简单，社交更难。中国人讲关系，关系好的做事自然就能成，前提是大家能力差不多\n    - 如何尊重老员工？问他做不做他一定不做，再给新人\n- 西方英雄主义，东方集体主义\n- 领导挑战你是为了看你的决心和有无把握",
+      "archiveId": "archive:67c1c066223f10f9",
+      "actors": []
+    },
+    {
+      "id": "archive:528f29326d487710",
+      "type": "book",
+      "title": "欧洲史话",
+      "subtitle": "",
+      "creator": "枫落白衣",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "历史",
+        "欧洲史"
+      ],
+      "status": "doing",
+      "recordedAt": "2023-05-25",
+      "notes": "1. 希腊神话\n\n特洛伊 希腊城邦雅典\n\n波斯希腊大战\n\n希腊崇尚民主，有氛围。思想自由，哲学家物理学家众搞基\n\n2. 罗马\n\n各种执政官实则大帝混战睡女人，搞假共和真皇帝\n\n凯撒大帝睡埃及艳后生小凯撒，屋大维退执政官搞名号集成\n\n罗马希腊众神混合，耶稣降世真人，基督教神话推基督教义\n\n犹太教和基督教是信同一个神",
+      "archiveId": "archive:528f29326d487710",
+      "actors": []
+    },
+    {
+      "id": "archive:e62ccfc5280fe04a",
+      "type": "book",
+      "title": "海奥华预言",
+      "subtitle": "",
+      "creator": "米歇·戴斯玛克特",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "covers/hq-52d7b0c7e10c37ff.webp",
+      "tags": [
+        "书籍",
+        "科幻",
+        "灵性"
+      ],
+      "status": "done",
+      "recordedAt": "2021-12-27",
+      "notes": "神奇的故事，被外星人邀请后去往外星人的星球参观的故事\n可以说是梦, 但是却真实且科学",
+      "archiveId": "archive:e62ccfc5280fe04a",
+      "actors": []
+    },
+    {
+      "id": "archive:14258ad84f540725",
+      "type": "book",
+      "title": "硅谷钢铁侠：埃隆·马斯克的冒险人生",
+      "subtitle": "",
+      "creator": "阿什利·万斯",
+      "year": "",
+      "date": "",
+      "rating": 3,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "传记",
+        "科技",
+        "商业"
+      ],
+      "status": "done",
+      "recordedAt": "2021-12-22",
+      "notes": "- 马斯克的思想，工作方法\n- 特斯拉，SpaceX，太阳能公司的由来\n- 马斯克的目标：移民火星，让人类成为跨行星物种",
+      "archiveId": "archive:14258ad84f540725",
+      "actors": []
+    },
+    {
+      "id": "archive:4f7ef96d6c57d02f",
+      "type": "book",
+      "title": "简明日本史",
+      "subtitle": "",
+      "creator": "陈勤",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "历史",
+        "日本史"
+      ],
+      "status": "done",
+      "recordedAt": "2023-04-09",
+      "notes": "1.以古代中国为师，以欧洲列强为师，以美国为师\n\n2.茶道花道剑道以古中国为师，索尼有自己的技术，并且学到本质\n\n3.和魂汉才，以汉为术而不为本。物哀为主韵律\n\n通俗一点来说啊，物哀观念的出现，表明了和魂汉才中的和魂开始形成体系，一个日本自身的精神体系，物哀以及此后陆续形成的幽玄和叉G，这三个理念构成了日本民族审美意识的完整体系，为便于读者理解啊，就用中国古诗来做个比喻，物哀的意思类似于无可奈何花落去。\n曾相识，燕归来，悠闲呢，就意味着明月松间照，清泉石上，流儿差集，指的是孤舟蓑笠翁，独钓寒江雪，在日本人看来啊，物哀是极淡的人性幽玄，是极稀薄的神性，而差劲是极简陋的悟性，\n\n武士武力干政，挟天子以令诸侯。\n\n织田信长到丰臣秀吉到德川家康\n\n织田信长、杜鹃若不啼，杀之不足，惜丰臣秀吉呢，杜鹃若不啼，又枝自然体，德川家康就是杜鹃若不啼，静待莫需急，三种难，三种态度，三种性格\n\n明治维新等于四民平等，武士公农商平等化",
+      "archiveId": "archive:4f7ef96d6c57d02f",
+      "actors": []
+    },
+    {
+      "id": "archive:a959d7a9c4f09479",
+      "type": "book",
+      "title": "背叛",
+      "subtitle": "",
+      "creator": "豆豆",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "小说",
+        "社会",
+        "商业"
+      ],
+      "status": "done",
+      "recordedAt": "2025-07-04",
+      "notes": "# 摘录台词\n\n- 我不会随机应变，你也不要乘人之危\n- 如佛门六根不净，入商界狼性不足\n- 冒险是人的天性，但不是任何事情都值得冒险\n\n# 语句\n\n1. 商业行为中，最不可轻信的就是成功者的经验之谈，传授你赚钱之道的人往往是要看你笑话，希望你破产的人。幸福是相对而言的，是由不幸比较出来的，所以你的不幸就有了价值。\n2. 【物竞天择适者生存】学生指着河边铺天盖地的水鸟问老师，这么多水鸟聚在一起，它们吃什么。老师回答说，**既然它们聚在这里就一定有食物，这叫生态规律**。就像现在文坛不景气，但书还是越出越多，这里面也有一个适者生存的问题\n3. 不能因为眼前的困难而冲击长远利益，必须调动一切力量主攻一个方向，不求全面开花，只在一点突破。而现在的时间就是最大的效益，早点积蓄一些力量，就能避免实力和机会之间出现断层\n4. 不同的人处在不同的层次，不同的角度，价值观当然也会不同。问题是哪一种价值观更接近实际\n5. 【踩高捧低】人际关系是一笔重要的财富，不可破坏性开采，是盖楼的材料就不能用来搭鸡窝。同时，不到万不得已不能暴露我们的困境，否则会动摇他们对我们的信心，那种损失就大了。所以，现在再苦再难我们都得咬紧牙关挺住\n6. 财富的含义很广泛，它包括知识、经验、感情、信任、伦理、爱心等等，而不仅仅是金钱\n7. 须出去走一走，接触一下[西方文化](https://zhida.zhihu.com/search?content_id=215706686&content_type=Article&match_order=1&q=%E8%A5%BF%E6%96%B9%E6%96%87%E5%8C%96&zhida_source=entity)，无论你看社会还是看历史，点位高一些，视角广一些，思维方式多一些，你的认识和理解就会更深刻，而过人的透视力将是你成就事业的必备素质\n8. 一个战役的胜利取决于所有环节的协调一致，取决于百分之百的正确，而失败，只需要百分之一的错误就够了。成功必须建立在百分之百的正确上，而失败，有百分之一的错误就够了\n9. 道德、伦理、良心这道防线不是每个人都能守住的，当温度达到和超过它的熔点的时候，它就会融化，就会被另一种东西所取代\n10. 纵观世界，强国与弱国之间，富国与穷国之间，哪一天平等过？民族与民族之间尚且不能平等，男人与男人之间尚有强弱之分，怎么可能谈到男女平等呢？即使是男人与女人，总统的女儿与失学女童的父亲能平等吗？这个世界，你从哪个角落里能找到平等？\n11. 也不想想他自己是什么人，是自己有本事？还是总统的女儿？人的生活不能越位，狼有狼的圈子，羊有羊的圈子，羊要是硬往狼群里钻，那是找死。\n12. 与当地人交往，这本身就是文化渗透，你所要关心的是意识形态和思维方面的东西。任何文化都有背景，中国的文化教育一直言意一元化政治[思想体系](https://zhida.zhihu.com/search?content_id=215706686&content_type=Article&match_order=1&q=%E6%80%9D%E6%83%B3%E4%BD%93%E7%B3%BB&zhida_source=entity)，而一元化教育虽能造就好公民，却很难造就有建树的文学家\n13. 这个人不一定能让你过的好，但一定让你过的不平凡，这正是你想要的，你要的是一种境界，一种精神，而邓文英要的只是物质上的成功，[宋一坤](https://zhida.zhihu.com/search?content_id=215706686&content_type=Article&match_order=1&q=%E5%AE%8B%E4%B8%80%E5%9D%A4&zhida_source=entity)这本书邓文英读不懂，小市民式的小聪明也读不懂，我以为一本好书应该属于能够读懂它的人\n14. 所谓好书，就是指既能赚钱又不触犯法规的书。仔细分类，可以把读者分为政界人士、准文化人、闲散游民等诸多类型，盯住读者的口袋投其所好\n15. 农村观念陈旧，女童不受重视，可人们不知道，将来她们是要[为人之母](https://zhida.zhihu.com/search?content_id=215706686&content_type=Article&match_order=1&q=%E4%B8%BA%E4%BA%BA%E4%B9%8B%E6%AF%8D&zhida_source=entity)的。耽误一个男生只耽误他一个，而耽误一个女生就要影响一代人\n16. 【使用法律的人】这个世界，只有两种人才去真正研究法律，一种是制定法律的人，一种是利用法律的人，两者的动机虽然不同，但关注的焦点却相同，即法律的盲点。法律是判定社会行为成立与否的最高准则，而我们都是守法公民，所以法律保护我们\n17. 【坦然的容量】人的自私和贪婪往往使人原谅自己的不规范行为，所以就增加了坦然的容量，它通常包容许多缺点错误而仍然能够保持平衡，于是，人们常常忽略了它的存在。只有失去坦然的人才能刻骨铭心地理解它的价值。而人们认识到这一点，往往要付出惨重的代价，或自杀，或一生的阴暗、惶恐\n18. 男女平等问题首先不能回避男女的生理特点，其次，不能抛开生产力的发展水平；第三，不同的地区、不同的民族、不同的宗教，其男女平等的具体内容也 各有不同。另外，平等问题有些属于法律范畴，有些属于道德范畴，不可同一而论。简单地说，不承认差异，就不可能拥有真正意义上的平等，绝对平等的直接后果就是摧残妇女\n19. 凡事，都得有个度。方子云需要钱，可他舍弃了钱选择自杀。叶红军和你夏英杰也需要钱，可你们舍弃了钱选择了背叛。我以为只要不去亲自操作就能心理平衡了，这叫掩耳盗铃，自欺欺人。这一课，太深刻了，代价也太大了。我真傻，我好像什么都算计到了，怎么就没去算算人的良心能够承受住多少负荷？\n20. 青春这东西不以人的意志为转移，不会像手艺一样走哪带哪儿，带一辈子。现在的[用工制度](https://zhida.zhihu.com/search?content_id=215706686&content_type=Article&match_order=1&q=%E7%94%A8%E5%B7%A5%E5%88%B6%E5%BA%A6&zhida_source=entity)是双向选择的合同制，企业不适合你时你可以走，你不适合企业时企业可以辞退你。公司需要的是你们的技术，而技术会随着时间的推移越来越精。有了手艺一辈子都用得着，一辈子都踏实\n\n# GPT生成\n\n最致命的背叛，往往披着忠诚的外衣，在你最信任的人手中完成\n你以为他是同志，其实他只是一个等待时机的猎人\n信任是赌注，背叛是结果。输的人，不是看不清，而是不愿信\n在权力的棋盘上，没有永远的朋友，只有下一步该吃掉的棋子\n他说的一句‘为了你好’，最终成了我被出卖的理由\n背叛不是一夜之间完成的，它是一次次沉默后的选择\n他们说他变了，其实他只是摘下了伪装\n你以为你们是并肩作战，其实他从未放下对你的戒备\n在利益面前，亲情、友情、爱情不过是谈判桌上的筹码\n有些人不是你看走了眼，而是他演得太久，连自己都信了\n\n[豆豆三部曲：《背叛》是底线《天道》是目标《天幕红尘》是梯子](https://www.163.com/dy/article/FRKHB12M0537IM1W.html)",
+      "archiveId": "archive:a959d7a9c4f09479",
+      "actors": []
+    },
+    {
+      "id": "archive:cb4dac17e798d434",
+      "type": "book",
+      "title": "金石良言",
+      "subtitle": "",
+      "creator": "金岩石",
+      "year": "",
+      "date": "",
+      "rating": 5,
+      "review": "",
+      "url": "",
+      "cover": "",
+      "tags": [
+        "书籍",
+        "金融",
+        "经济"
+      ],
+      "status": "done",
+      "recordedAt": "2022-02-08",
+      "notes": "- 外汇储备与货币价值等同，中国对美国的外汇储备越多，则变相的人民币在国际化的信用越大，美元做为世界货币流通下，外汇储备相当于抵押物存在。人民币-外币的兑换是小范围的自由兑换，风险可以控制\n- 加密货币与区块链：from 国富论 “使用价值很大的东西，往往具有极小的交换价值，甚至没有（比如食物）。反之交换价值很大的东西，往往具有极小的使用价值，甚或没有（比如股票）”",
+      "archiveId": "archive:cb4dac17e798d434",
+      "actors": []
+    },
+    {
+      "id": "movie:35567787",
+      "type": "movie",
+      "title": "斗罗大陆Ⅱ绝世唐门 年番1",
+      "subtitle": "",
+      "creator": "",
+      "year": "2023",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "还行吧，主要是追多了。每周一集也变成习惯了",
+      "url": "https://movie.douban.com/subject/35567787/",
+      "cover": "covers/hq-80dae98564c26c51.webp",
+      "tags": [
+        "动画",
+        "奇幻"
+      ],
+      "status": "doing"
+    },
+    {
+      "id": "movie:37816789",
+      "type": "movie",
+      "title": "乘风2026",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-06-07",
+      "rating": 3,
+      "review": "陈瑶和张月路转粉，pets一直在粉",
+      "url": "https://movie.douban.com/subject/37816789/",
+      "cover": "covers/hq-3d4ffc07d2f0cf96.webp",
+      "tags": [
+        "音乐",
+        "真人秀"
+      ],
+      "status": "doing"
+    },
+    {
+      "id": "book:30327279",
+      "type": "book",
+      "title": "价值再定义(腾讯金融产品体验设计之道)",
+      "subtitle": "",
+      "creator": "腾讯FiT Design",
+      "year": "2018",
+      "date": "2018-12-27",
+      "rating": 0,
+      "review": "",
+      "url": "https://book.douban.com/subject/30327279/",
+      "cover": "covers/douban-30327279.jpg",
+      "tags": [
+        "腾讯",
+        "用户体验"
+      ],
+      "status": "doing"
+    },
+    {
+      "id": "movie:38649895",
+      "type": "movie",
+      "title": "万妖图录传 第十三季",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "好看，希望制作组继续快速制作LOL",
+      "url": "https://movie.douban.com/subject/38649895/",
+      "cover": "covers/douban-38649895-hq.webp",
+      "tags": [
+        "动画",
+        "奇幻"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:38436722",
+      "type": "movie",
+      "title": "万妖图录传 第一季",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/38436722/",
+      "cover": "covers/douban-38436722-hq.webp",
+      "tags": [
+        "动画",
+        "奇幻"
+      ],
+      "status": "done"
+    },
+    {
+      "id": "movie:37415041",
+      "type": "movie",
+      "title": "斗破苍穹 年番4",
+      "subtitle": "",
+      "creator": "沈亦默",
+      "year": "2025",
+      "date": "2026-10-03",
+      "rating": 5,
+      "review": "内容比较中式，高中看小说现在看动漫哈哈哈",
+      "url": "https://movie.douban.com/subject/37415041/",
+      "cover": "covers/douban-37415041-hq.webp",
+      "tags": [
+        "动作",
+        "动画",
+        "奇幻",
+        "冒险",
+        "古装"
+      ],
+      "status": "doing"
+    }
+  ]
+}
