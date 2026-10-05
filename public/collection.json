@@ -13,8 +13,8 @@
       "creator": "大鹏",
       "year": "2025",
       "date": "2026-10-03",
-      "rating": 0,
-      "review": "",
+      "rating": 3,
+      "review": "大鹏瘦了，但是电影没电视剧雷佳音演得好 要安家，买房还房贷，被同事坑担任荔枝使。情节跟电视剧差不多",
       "url": "https://movie.douban.com/subject/36185502/",
       "cover": "covers/hq-2ce5fe10f0d559dd.webp",
       "tags": [
@@ -3204,6 +3204,81 @@
         "古装"
       ],
       "status": "doing"
+    },
+    {
+      "id": "movie:27605659",
+      "type": "movie",
+      "title": "731",
+      "subtitle": "疯狂731 / 731: 生化启示录 / Operation Cherry Blossoms at Night / 731 Biochemical Revelations",
+      "creator": "赵林山",
+      "year": "2025",
+      "date": "2026-10-05",
+      "rating": 5,
+      "review": "",
+      "url": "https://movie.douban.com/subject/27605659/",
+      "cover": "covers/douban-27605659-hq.webp",
+      "tags": [
+        "剧情",
+        "战争"
+      ],
+      "status": "done",
+      "actors": [
+        "姜武",
+        "王志文",
+        "李乃文",
+        "林子烨",
+        "孙茜"
+      ]
+    },
+    {
+      "id": "movie:36452545",
+      "type": "movie",
+      "title": "功夫女足",
+      "subtitle": "女足 / 少林女足 / E计划 / Kung Fu Soccer / Shaolin Women's Soccer",
+      "creator": "周星驰",
+      "year": "2026",
+      "date": "2026-10-04",
+      "rating": 3,
+      "review": "张小斐演这个角色总感觉怪怪的",
+      "url": "https://movie.douban.com/subject/36452545/",
+      "cover": "covers/douban-36452545-hq.webp",
+      "tags": [
+        "剧情",
+        "喜剧",
+        "运动"
+      ],
+      "status": "done",
+      "actors": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "刘嘉玲",
+        "佐藤健"
+      ]
+    },
+    {
+      "id": "movie:21937445",
+      "type": "movie",
+      "title": "辩护人",
+      "subtitle": "변호인 / 逆权大状(港) / 正义辩护人(台) / The Attorney",
+      "creator": "杨宇硕",
+      "year": "2013",
+      "date": "2026-10-04",
+      "rating": 5,
+      "review": "有个论据很有震撼，国家到底是人民的国家，还是当政者的国家 以及斗争退下来的人，不斗争了有 PSTD。为何总想秀存在感",
+      "url": "https://movie.douban.com/subject/21937445/",
+      "cover": "covers/douban-21937445-hq.webp",
+      "tags": [
+        "剧情"
+      ],
+      "status": "done",
+      "actors": [
+        "宋康昊",
+        "金迎爱",
+        "吴达洙",
+        "郭度沅",
+        "任时完"
+      ]
     }
   ]
 }
