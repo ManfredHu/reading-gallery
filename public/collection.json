@@ -3279,6 +3279,164 @@
         "郭度沅",
         "任时完"
       ]
+    },
+    {
+      "id": "movie:37508847",
+      "type": "movie",
+      "title": "空枪",
+      "subtitle": "V",
+      "creator": "韩延",
+      "year": "2026",
+      "date": "2026-10-31",
+      "rating": 5,
+      "review": "虽然感觉朱一龙演的很浮夸，但是整部剧还是非常棒的。情节清晰，通俗易懂",
+      "url": "https://movie.douban.com/subject/37508847/",
+      "cover": "covers/douban-37508847.webp",
+      "tags": [
+        "剧情",
+        "犯罪"
+      ],
+      "status": "done",
+      "actors": [
+        "朱一龙",
+        "檀健次",
+        "梁家辉",
+        "卫诗雅",
+        "惠英红"
+      ]
+    },
+    {
+      "id": "movie:38924512",
+      "type": "movie",
+      "title": "聚宝仙盆之杂灵根才是真BOSS 第十三季",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-10-14",
+      "rating": 5,
+      "review": "画质越来越好了，不错",
+      "url": "https://movie.douban.com/subject/38924512/",
+      "cover": "covers/douban-38924512.webp",
+      "tags": [
+        "动画",
+        "短片",
+        "奇幻"
+      ],
+      "status": "done",
+      "actors": []
+    },
+    {
+      "id": "movie:38639960",
+      "type": "movie",
+      "title": "布衣成圣",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-10-07",
+      "rating": 4,
+      "review": "比较古风的漫剧\n2026.10.24 第六季看完",
+      "url": "https://movie.douban.com/subject/38639960/",
+      "cover": "covers/douban-38639960.webp",
+      "tags": [],
+      "status": "done",
+      "actors": []
+    },
+    {
+      "id": "movie:35483395",
+      "type": "movie",
+      "title": "戏台",
+      "subtitle": "The Stage",
+      "creator": "陈佩斯",
+      "year": "2025",
+      "date": "2026-10-06",
+      "rating": 3,
+      "review": "好笑荒诞，但是有那么一种无能为力，最后的刚正不阿咋说呢。算霸王和虞姬敬业？",
+      "url": "https://movie.douban.com/subject/35483395/",
+      "cover": "covers/douban-35483395.webp",
+      "tags": [
+        "剧情",
+        "喜剧"
+      ],
+      "status": "done",
+      "actors": [
+        "陈佩斯",
+        "黄渤",
+        "姜武",
+        "尹正",
+        "杨皓宇"
+      ]
+    },
+    {
+      "id": "movie:37480076",
+      "type": "movie",
+      "title": "仙逆 年番3",
+      "subtitle": "仙逆 第129-180集 / 仙逆 第四季 / Renegade Immortal 4",
+      "creator": "石头熊 / 冯毅 / 李振锋 / 王建鑫",
+      "year": "2026",
+      "date": "2026-10-06",
+      "rating": 5,
+      "review": "国漫第一",
+      "url": "https://movie.douban.com/subject/37480076/",
+      "cover": "covers/douban-37480076.webp",
+      "tags": [
+        "动作",
+        "动画",
+        "奇幻",
+        "古装"
+      ],
+      "status": "doing",
+      "actors": [
+        "史泽鲲",
+        "刘思岑",
+        "王伟鉴",
+        "刘琮",
+        "徐宇隆"
+      ]
+    },
+    {
+      "id": "movie:38397487",
+      "type": "movie",
+      "title": "聚宝仙盆之杂灵根才是真BOSS",
+      "subtitle": "",
+      "creator": "",
+      "year": "2026",
+      "date": "2026-10-06",
+      "rating": 4,
+      "review": "跟仙逆挺像，主打一个脑洞大开跟另类。特别是王敦，我想看王敦视角了",
+      "url": "https://movie.douban.com/subject/38397487/",
+      "cover": "covers/douban-38397487.webp",
+      "tags": [
+        "动画",
+        "奇幻"
+      ],
+      "status": "doing",
+      "actors": []
+    },
+    {
+      "id": "movie:30174089",
+      "type": "movie",
+      "title": "内幕",
+      "subtitle": "廉政风云·内幕 / Under Current",
+      "creator": "麦兆辉",
+      "year": "2025",
+      "date": "2026-10-31",
+      "rating": 0,
+      "review": "",
+      "url": "https://movie.douban.com/subject/30174089/",
+      "cover": "covers/douban-30174089.webp",
+      "tags": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "status": "wish",
+      "actors": [
+        "郭富城",
+        "任达华",
+        "吴镇宇",
+        "方中信",
+        "陈国邦"
+      ]
     }
   ]
 }
